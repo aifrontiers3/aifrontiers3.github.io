@@ -1,0 +1,25 @@
+-
+    name: "FeiFei Li"
+    photo: "/images/speakers/feifei-li.jpg"
+    position: "Chief Scientist of AI/ML"
+    company: "Google Cloud"
+-
+    name: "Yuandong Tian"
+    photo: "/images/speakers/yuandong-tian.jpg"
+    position: "Research scientist"
+    company: "Facebook"
+-
+    name: "Lukasz Kaiser"
+    photo: "/images/speakers/lukasz-kaiser.jpg"
+    position: "Sr. Research Scientist"
+    company: "Google"
+-
+    name: "Lihong Li"
+    photo: "/images/speakers/lihong-li.jpg"
+    position: "Principal Researcher"
+    company: "Microsoft Research"
+-
+    name: "Michael Bowling"
+    photo: "/images/speakers/michael-bowling.png"
+    position: "Professor"
+    company: "University of Alberta"
