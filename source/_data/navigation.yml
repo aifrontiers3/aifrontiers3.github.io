@@ -1,0 +1,12 @@
+menu_main:
+    "Topics": "/#topics"
+    "Speakers": "/#speakers"
+    "Schedule": "/#schedule"
+    "Register": "#"
+    "Sponsor": "/sponsor-us"
+    "Venue": "/#venue"
+
+menu_sub:
+    "About Us": "/#about"
+    "Contact Us": "/#contact"
+    #Rss: /atom.xml
