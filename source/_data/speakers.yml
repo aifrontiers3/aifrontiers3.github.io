@@ -14,12 +14,17 @@
     position: "Sr. Research Scientist"
     company: "Google"
 -
-    name: "Lihong Li"
-    photo: "/images/speakers/lihong-li.jpg"
-    position: "Principal Researcher"
-    company: "Microsoft Research"
+    name: "Xuedong Huang"
+    photo: "/images/speakers/xuedong_Huang.jpg"
+    position: "Fellow"
+    company: "Microsoft"
 -
     name: "Michael Bowling"
     photo: "/images/speakers/michael-bowling.png"
     position: "Professor"
     company: "University of Alberta"
+-
+    name: "Dilek Hakkani-Tur"
+    photo: "/images/speakers/dilek.jpg"
+    position: "Research Scientist"
+    company: "Google"
