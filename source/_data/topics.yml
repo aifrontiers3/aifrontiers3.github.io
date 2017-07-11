@@ -1,11 +1,11 @@
 -
     title: "Chatbot and NLP"
     image: "/images/topics/speech-enabled-assistants.webp"
-    description: "How do we scale up speech recognition across hundreds of millions of people?How do we build personal assistants?"
+    description: "The exciting future of chatbots with deep reinforcement learning"
 -
     title: "Autonomous Driving"
     image: "/images/topics/autonomous-driving.webp"
-    description: "What are the new challenges in computer vision? How is machine learning applied in building Augmented Reality (AR)?"
+    description: "How was deep learning applied to autonomous driving? What problems do we face in building self driving cars?"
 -
     title: "Games"
     image: "/images/topics/games.jpg"
@@ -13,11 +13,11 @@
 -
     title: "Robots"
     image: "/images/topics/robots.jpg"
-    description: "How was deep learning applied to autonomous driving? What problems do we face in building self driving cars?"
+    description: "What is the status of robots? How do they become smarter?"
 -
     title: "Video Analysis"
     image: "/images/topics/computer-vision.webp"
-    description: "How do we apply deep learning to understand data from connected devices?"
+    description: "How to apply deep learning to understand video? Check out the new breakthrough in this domain"
 -
     title: "Deep Learning Breakthrough"
     image: "/images/topics/deep-learning-frameworks.webp"
