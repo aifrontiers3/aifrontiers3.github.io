@@ -19,12 +19,17 @@
     position: "Fellow"
     company: "Microsoft"
 -
-    name: "Michael Bowling"
-    photo: "/images/speakers/michael-bowling.png"
-    position: "Professor"
-    company: "University of Alberta"
+    name: "Kaijen Hsiao"
+    photo: "/images/speakers/kaijen.jpg"
+    position: "CTO"
+    company: "Mayfield Robotics"
 -
     name: "Dilek Hakkani-Tur"
     photo: "/images/speakers/dilek.jpg"
     position: "Research Scientist"
     company: "Google"
+-
+    name: "Michael Bowling"
+    photo: "/images/speakers/michael-bowling.png"
+    position: "Professor"
+    company: "University of Alberta"
