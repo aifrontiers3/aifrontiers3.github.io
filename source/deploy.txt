@@ -1,0 +1,167 @@
+- Aug.28.2017 update Day2 and some speaker info
+- Aug.28.2017 correct minor issues
+- Aug.28.2017 improve mobile css and add functionality to hide speakers
+- Aug.28.10:22pm 2017 Shorten Lukasz's talk description
+- Aug.29 10:15am 2017 Change Chatbot and NLP to Personal Assistant
+- Aug.29 10.27am 2017 Hidden panelists from speakers list
+- Aug.29 11.00am 2017 take counter down
+- Aug.29 11.00am 2017 add counter again
+- Aug.29 12.16am 2017 take counter down again
+- Aug.29 07.16pm 2017 Remove "theme:"
+- Aug.30 12.08am 2017 Add s to the topic
+- Aug.30 12.08am 2017 Change personal assistants to chatbot and NLP
+- Aug.30 11.14am 2017 Add jeff schneider to the speakers
+- Aug.30 11.56am 2017 Take down more to come and hide hidden speakers in jumbotron
+- Aug.30 05.26pm 2017 Add Omar Tawakol to the speakers
+- Aug.30 05.36pm 2017 remove the reserved space for hidden speaker
+- Aug.30 05.46pm 2017 minor description issue fixed
+- Aug.30 10.12pm Fixed "scientist" to "Scientist"
+- Aug.30 10.14pm Hide last year sponsors
+- Aug.30 11.41pm Add this year's sponsors, fix Omar's photo, and add youtube social button
+- Aug.31 1.00pm change sponsor section
+- Aug.31 8.49pm change sponsor-us letter
+- Jim triggered a quick deploy with Google Assistant
+- Jim triggered a quick deploy with Google Assistant
+- Sep.1 4.57pm remove the hassan sawaf
+- Sep.1 4.57pm remove the hassan sawaf in schedule
+- Jim triggered a quick deploy with Google Assistant
+- Sep.4 7.35pm added Bloomberg Beta in schedule
+- Sep.4 10.06pm change James' title and company
+- Sep.5 5.49pm change lucas time to 25 min
+- Sep.6 temporary remove Google sponsor
+- Sep.6 6pm Move Xuedong Huang to the second speaker
+- Sep.6 7pm update schedule of chatbot session "and more"
+- Jim triggered a quick deploy with Google Assistant
+- Sep 6 11:55pm update talk content of Manohar
+- Sep.7 1:13pm update the news in the website
+- Sep.7 1:22pm take down the news section for now
+- Sep.7 2:42pm put news section back
+- Sep.7 6:00pm change news format
+- Sep.8 1:22pm update jeff scheidar's speech
+- sep.8 2:56pm update huangxue dong's abstract in schedule
+- sep 10 8:00am update Dekang Lin's abstract in schedule
+- sep 10 8:00pm update xuedong huang's speech: remove "abstraction"
+- Sep 11 11:20am remove the bloomberg beta from the VC panelist
+- Sep 11 11:21am improve the subscription style
+- Sep 11 11:49am create the startup demo page
+- Sep 11 11:50am improve the subscription mobile style
+- Sep 11 11.52am improve the startup demo page
+- Sep 11 11.55am improve the startup demo page
+- Sep 11 12.25pm deploy the startup demo page
+- Sep 11 12.32pm change some minor issue on the startup page
+- Sep 11 12.33pm change ticket requirement on the startup page
+- Jim triggered a quick deploy with Google Assistant
+- Sep 11 1:12pm update the startup demo link in schedule
+- Sep 11 3:22pm update some typo on schedule
+- Sep 11 4:06pm update the minor issue on the startup page
+- Sep 11 5:06pm update the minor issue on the schedule header
+- Sep 12 11:02am update Ruhi Sarikaya this new speaker
+- Sep 12 11:09am update some order issue
+- Sep 12 2:34pm update ruhi Sarikaya fixed
+- Sep 12 2:41pm change the order of speakers
+- Sep 12 3:15pm change the background Ruhi Sarikaya
+- Sep 12 3:48pm change the background ruhi Sarikaya
+- Sep 12 4:49pm fix a typo of jeff schneider
+- Sep 12 5:33pm fix some news typo
+- Sep 12 5:40pm fix some news sentence
+- Sep 12 9:14pm fix text that is too long
+- Sep 12 10:28pm increase the height of the condensed text
+- Sep 12 10:50pm Modify Kaijen Hsiao's talk
+- Sep 12 10:53pm Small edit in Kaijen Hsiao's talk
+- Sep 12 11:05pm Add the content of Omar Tawakol's talk
+- Sep 13 10:17am Change some grammer mistake in news part
+- Sep 13 8:17pm Change on the news to in the news
+- Sep 14 11:38am Update the talks in the autonomout driving part
+- Sep 14 12:31am Add two media sponsors
+- Sep 14 2:52pm Update a typo
+- Sep 14 5:48pm update xiaofeng_ren
+- Sep 15 10:55am change the xiaofeng_ren order in speaker list
+- Sep 15 11:23am minor issue fixed
+- Sep 15 1:53pm added linkedin script
+- Sep 15 2:54pm change the order of speaker
+- Sep 15 3:04pm change the order of speaker
+- Sep 16 1:15pm updated startup-demo
+- Sep 18 10:00am add Yuandong's talk
+- Sep 18 12:38pm Add basis set venture and ashmeet
+- Sep 18 12:38pm move Ashmeet to panelist's list
+- Sep 18 6:00pm Changed Ashmeet job title
+- Sep 18 6:05pm Added Google Gradient Ventures
+- Sep 18 7:05pm Update sponsors section
+- Sep 19 12:45pm Update sponsor-us
+- Sep 19 2:03pm Add Pingwest
+- Sep 19 7:19pm Update list style
+- Sep 20 11:45am remove Google gradient venture
+- Sep 20 3:30pm add TrueShelf as demo
+- Sep 20 3:31pm change <ol> to <ul> for VC panelist
+- Sep 20 6:09am added detailed info for TruShelf
+- Sep 21 9:45am added fixed redMarlin link 
+- Sep 21 10:59am change some sponsor section's text
+- Sep 21 1:59am adjust width
+- Sep 21 8:49am add rfnav details and AFanta
+- Sep 21 9:00am switch robots and video understanding
+- Sep 21 3:00pm improve schedule speaker style
+- Sep 22 3:00pm add Eddie Kessler
+- Sep 22 8:00pm improve speaker style
+- Sep 22 8:52pm improve speaker style
+- Sep 22 11:05pm add Dinner Banquet special layout
+- Sep 24 8:27pm add 3DLOOK
+- Sep 25 9:51am switch robots and video understanding and add deleep George
+- Sep 25 7:58pm add Google Tag Manager tracking code
+- Sep 25 9:45pm Update program_text.yml
+- Sep 25 10:01pm remove unwanted margins
+- Sep 25 10:42pm update Open Graph Protocol (OGP) 
+- Sep 26 8:55am add Roland Memisevic and Ashutosh Garg
+- Sep 26 9:05am add netease to our media sponsor
+- Sep 26 9:16am move eddie back to the evening
+- Sep 26 12:06pm move morning startup demo to the afternoon
+- Sep 26 13:22pm move eddie back to the afternoon keynote and change SK Reddy's title
+- Sep 26 13:55pm update Google Analytics
+- Sep 26 14:08pm move VC panelists
+- Sep 26 14:21pm optimize website speed
+- Sep 26 14:41pm optimize website speed
+- Sep 26 16:29pm update the linkedin script
+- Sep 26 16:41pm optimize website speed
+- Sep 26 18:14pm change bit.ly back to normal url
+- Sep 26 18:28pm remove accepting proposal
+- Sep 26 23:06pm change poster to screenshot.png
+- Sep 26 23:45pm upload screenshot.png
+- Sep 27 12:21am add tabs to index and update style
+- Sep 27 12:49am move knowledge partner before media partner
+- Sep 27 9:49am add Frank Chen's day 2 morning talk
+- Sep 27 10:24am change Frank Chen to be day 2 morning keynote speaker
+- Sep 28 11:58am remove SVcafe
+- Sep 28 9:58pm add detailed schedule info and moderators
+- Sep 29 11:30am update moderators and other details. Add job page.
+- Sep 29 11:39am update Roland Memisevic's photo
+- Sep 29 11:42am increase schedule speaker title font size
+- Sep 29 12:14am adjust moderator section
+- Sep 30 1:02am update basis set ventures job info
+- Sep 31 7:08pm add Wharton School as Knowledge partner
+- Sep 31 9:49pm change chatbot and nlp to personal assistants
+- Sep 31 7:08pm change Wharton School to knowledge @ wharton 
+- Oct 2 12:35pm add RobotXSpace
+- Oct 5 7:15am moved Eddie Kessler
+- Oct 5 7:50am Changed to voicera
+- Oct 5 4:58pm Add beta blog
+- Oct 5 10:14pm Add Ankit Jain
+- Oct 5 1:46pm Add blog tab
+- Oct 6 10:46am Add Rahul
+- Oct 6 11:30am update Day 2 morning 2
+- Oct 6 16:52pm add Peritus 
+- Oct 6 9:09pm add Peritus 
+- Oct 7 7:21am moved Rahul to beginning of speakers 
+- Oct 9 10:05am add Sourceress to jobs
+- Oct 9 10:27am switch speaker order
+- Oct 9 10:45am add hyperlink to startup demo logo
+- Oct 9 11:34am force update 
+- Oct 9 11:55am shorten startup demo introduction
+- Oct 9 2:18pm add Decision Engines to startup demo
+- Oct 9 3:05pm change startup demo time slot from 8 to 9
+- Oct 9 3:22pm add posts list on the blog sidebar
+- Oct 9 6:37pm add video interview from McKinsey to blog post
+- Oct 9 7:33pm add morning section 2 
+- Oct 10 3:47pm add diamond sponsor C3IoT
+- Oct 10 5:44pm update day 2
+- Oct 10 10:59pm revert file names in blog post
+- Oct 11 12:33pm add Hui Ju to about us
+- Oct 11 3:23pm fix venue link

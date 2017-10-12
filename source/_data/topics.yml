@@ -1,25 +1,24 @@
 -
-    title: "Chatbot and NLP"
-    image: "/images/topics/speech-enabled-assistants.jpg"
+    title: "Personal Assistants"
+    image: "/images/topics/chatbot-and-nlp.jpg"
     description: "The exciting future of chatbots with deep reinforcement learning"
--
-    title: "Autonomous Driving"
-    image: "/images/topics/autonomous-driving.jpg"
-    description: "How was deep learning applied to autonomous driving? What problems do we face in building self driving cars?"
--
-    title: "Games"
-    image: "/images/topics/games.jpg"
-    description: "How has deep learning revolutionized natural language processing? What applications can we build today?"
 -
     title: "Robots"
     image: "/images/topics/robots.jpg"
     description: "What is the status of robots? How do they become smarter?"
 -
-    title: "Video Analysis"
-    image: "/images/topics/computer-vision.jpg"
-    description: "How to apply deep learning to understand video? Check out the new breakthrough in this domain"
--
     title: "Deep Learning Breakthrough"
     image: "/images/topics/deep-learning-frameworks.jpg"
-    description: "What the unique features of different deep learning frameworks? Find out from leaders of TensorFlow, Caffe, Torch and MXNet."
-    
+    description: "The major breakthroughs in deep learning algorithm and their implications."
+-
+    title: "Video Analysis"
+    image: "/images/topics/computer-vision.jpg"
+    description: "How to apply deep learning to understand videos? What are the advances in computer vision?"
+-
+    title: "Autonomous Driving"
+    image: "/images/topics/autonomous-driving.jpg"
+    description: "A look at future self-driving cars. The role of deep learning in autonomous driving."
+-
+    title: "Games"
+    image: "/images/topics/dota2.jpg"
+    description: "The growing presence of deep learning in game play and its impact for future games."

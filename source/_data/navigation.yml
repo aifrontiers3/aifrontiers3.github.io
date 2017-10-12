@@ -2,11 +2,13 @@ menu_main:
     "Topics": "/#topics"
     "Speakers": "/#speakers"
     "Schedule": "/#schedule"
-    "Register": "#"
-    "Sponsor": "/sponsor-us"
+    "Sponsor": "/#spnrs"
+    "Blog": "/blog"
+    "Jobs": "/jobs"
     "Venue": "/#venue"
 
 menu_sub:
-    "About Us": "/#about"
+    "Previous Conference": "http://2017.aifrontiers.com"
+    "About Us": "/about"
     "Contact Us": "/#contact"
     #Rss: /atom.xml

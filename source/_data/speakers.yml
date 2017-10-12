@@ -1,35 +1,170 @@
 -
-    name: "FeiFei Li"
-    photo: "/images/speakers/feifei-li.jpg"
-    position: "Chief Scientist of AI/ML"
-    company: "Google Cloud"
+    name: "Andrew Ng"
+    photo: "/images/speakers/Andrew_Ng.jpg"
+    position: "Founder"
+    company: "Deeplearning.ai"
 -
-    name: "Yuandong Tian"
-    photo: "/images/speakers/yuandong-tian.jpg"
-    position: "Research scientist"
+    name: "Xuedong Huang"
+    photo: "/images/speakers/xuedong-huang.jpg"
+    position: "Chief Scientist <br>of Speech & Language"
+    company: "Microsoft"
+-
+    name: "Ruhi Sarikaya"
+    photo: "/images/speakers/Ruhi-Sarikaya.jpg"
+    position: "Director"
+    company: "Amazon Alexa"
+-
+    name: "Rahul Sukthankar"
+    photo: "/images/speakers/raul-sukthankar.jpg"
+    position: "Head of Video Understanding"
+    company: "Google"
+-
+    name: "Hassan Sawaf"
+    photo: "/images/speakers/Hassan-Sawaf.jpg"
+    position: "Director of AI"
+    company: "Amazon"
+    hidden: true
+-
+    name: "Xiaofeng Ren"
+    photo: "/images/speakers/xiaofeng_ren.jpg"
+    position: "Chief Scientist"
+    company: "Alibaba"
+-
+    name: "Danny Shapiro"
+    photo: "/images/speakers/Danny_Shapiro.jpg"
+    position: "Sr. Director of Automotive"
+    company: "Nvidia"
+-
+    name: "Magnus Nordin"
+    photo: "/images/speakers/magnus-nordin.jpg"
+    position: "Technical Director"
+    company: "Electronic Arts"
+-
+    name: "Jeff Schneider"
+    photo: "/images/speakers/jeff_schneider.jpg"
+    position: "Director"
+    company: "Uber"
+-
+    name: "Manohar Paluri"
+    photo: "/images/speakers/manorhar-paluri.jpg"
+    position: "Manager of<br>Computer Vision"
     company: "Facebook"
+-
+    name: "James Manyika"
+    photo: "/images/speakers/james-manyika.jpg"
+    position: "Chairman and Director"
+    company: "McKinsey Global Institute"
 -
     name: "Lukasz Kaiser"
     photo: "/images/speakers/lukasz-kaiser.jpg"
     position: "Sr. Research Scientist"
-    company: "Google"
+    company: "Google Brain"
 -
-    name: "Xuedong Huang"
-    photo: "/images/speakers/xuedong-huang.jpg"
-    position: "Fellow"
-    company: "Microsoft"
+    name: "Dilek Hakkani-Tur"
+    photo: "/images/speakers/dilek.jpg"
+    position: "Research Scientist"
+    company: "Google"
+    hidden: true
+-
+    name: "Yuandong Tian"
+    photo: "/images/speakers/yuandong-tian.jpg"
+    position: "Research Scientist"
+    company: "Facebook"
 -
     name: "Kaijen Hsiao"
     photo: "/images/speakers/kaijen.jpg"
     position: "CTO"
     company: "Mayfield Robotics"
 -
-    name: "Dilek Hakkani-Tur"
-    photo: "/images/speakers/dilek.jpg"
-    position: "Research Scientist"
-    company: "Google"
+    name: "Eddie Kessler"
+    photo: "/images/speakers/eddie-kessler-01.jpg"
+    position: "Director"
+    company: "DeepMind"
 -
-    name: "Michael Bowling"
-    photo: "/images/speakers/michael-bowling.png"
-    position: "Professor"
-    company: "University of Alberta"
+    name: "Dileep George"
+    photo: "/images/speakers/dileep-01.jpg"
+    position: "Co-Founder"
+    company: "Vicarious"
+-
+    name: "Omar Tawakol"
+    photo: "/images/speakers/Omar_Tawakol.jpg"
+    position: "Founder and CEO"
+    company: "Voicera"
+-
+    name: "Dekang Lin"
+    photo: "/images/speakers/dekang-lin.jpg"
+    position: "Co-Founder and CTO"
+    company: "Naturali"
+-
+    name: "Frank Chen"
+    photo: "/images/speakers/Frank_Chen.jpg"
+    position: "Partner"
+    company: "Andreessen Horowitz"
+-
+    name: "SK Reddy"
+    photo: "/images/speakers/SK_Reddy.jpg"
+    position: "Chief Product Officer<br>AI & ML"
+    company: "Digitalist Group"
+    hidden: true
+-
+    name: "Samir Kumar"
+    photo: "/images/speakers/Samir_Kumar.jpg"
+    position: "Managing Director"
+    company: "Microsoft Ventures"
+    hidden: true
+-
+    name: "Ashmeet Sidana"
+    photo: "/images/speakers/ashmeet_sidana.jpg"
+    position: "Managing Partner"
+    company: "Engineering Capital"
+    hidden: true
+-
+    name: "Roland Memisevic"
+    photo: "/images/speakers/roland_memisevic.jpg"
+    position: "Chief Scientist and<br>Co-Founder"
+    company: "TwentyBN"
+-
+    name: "Ashutosh Garg"
+    photo: "/images/speakers/ashutosh_garg.jpg"
+    position: "CEO and Founder"
+    company: "Volkscience"
+-
+    name: "T.M. Ravi"
+    photo: "/images/speakers/tm-ravi.jpg"
+    position: "Managing Director<br>& Founder"
+    company: "The Hive"
+    moderator: true
+-
+    name: "Xuezhao Lan"
+    photo: "/images/speakers/xuezhao_lan.jpg"
+    position: "Founding Partner"
+    company: "Basis Set Ventures"
+    moderator: true
+-
+    name: "Ankit Jain"
+    photo: "/images/speakers/ankit-jain.jpg"
+    position: "Founding Partner"
+    company: "Gradient Ventures"
+    hidden: true
+-
+    name: "Ambarish Kenghe"
+    photo: "/images/speakers/Ambarish_Kenghe.png"
+    position: "Chief Product Officer"
+    company: "Myntra"
+-
+    name: "Andy Pandharikar"
+    photo: "/images/speakers/andy_pandharikar.png"
+    position: "CEO and Co-founder"
+    company: "Commerce.AI"
+-
+    name: "TBD"
+    photo: "/images/speakers/more-to-come.jpg"
+    position: "&nbsp"
+    company: "&nbsp"
+    hidden: true
+-
+    name: "Keynote Speaker"
+    photo: "/images/speakers/more-to-come.jpg"
+    position: "To Be Announced"
+    company: "&nbsp"
+    hidden: true

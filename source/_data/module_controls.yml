@@ -1,7 +1,9 @@
 topics: true
-speakers: false
+speakers: true
+programs: false
 schedule: true
 sponsors: true
+news: true
 venue: true
-about: true
+about: false
 contact: true

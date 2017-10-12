@@ -1,0 +1,59 @@
+"diamond":
+    - 
+        name: "C3IoT"
+        logo: "/images/sponsors/C3IoT.png"
+        height: 75
+"platinum":
+    -
+        name: "deeplearning.ai"
+        logo: "/images/sponsors/deeplearningAI-horizontal.png"
+        height: 75
+    -
+        name: "Basisset"
+        logo: "/images/sponsors/Basis-set.png"
+        height: 35
+"gold":
+    -
+        name: "Microsoft"
+        logo: "/images/sponsors/microsoft.png"
+        height: 40
+    -
+        name: "Myntra"
+        logo: "/images/sponsors/myntra.jpg"
+        height: 50
+"knowledge partner":
+    -
+        name: "McKinsey"
+        logo: "/images/sponsors/mckinsey.png"
+        height: 30
+        offset: 4
+    -
+        name: "Wharton School"
+        logo: "/images/sponsors/k@w.png"
+        height: 20
+        offset: 4
+"media partner":
+    -
+        name: "Synced"
+        logo: "/images/sponsors/synced.png"
+        height: 55
+    -
+        name: "The Hive"
+        logo: "/images/sponsors/the-hive.png"
+        height: 55
+    -
+        name: "RobotXSpace"
+        logo: "/images/sponsors/robotxspace.png"
+        height: 35
+    -
+        name: "Netease"
+        logo: "/images/sponsors/netease.png"
+        height: 30
+    -
+        name: "Pingwest"
+        logo: "/images/sponsors/Pingwest.png"
+        height: 25
+#     -
+#         name: "SV Cafes"
+#         logo: "/images/sponsors/svcafes.png"
+#         height: 35
