@@ -3,21 +3,31 @@
     photo: "/images/speakers/Andrew_Ng.jpg"
     position: "Founder"
     company: "Deeplearning.ai"
+    bio: "Dr. Andrew Ng is a globally recognized leader in AI (Artificial Intelligence).  He was until recently Chief Scientist at Baidu, where he led the company’s ~1300 person AI Group and was responsible for driving the company's global AI strategy and infrastructure. He was also the founding lead of the Google Brain team. Dr. Ng is also Co-Chairman and Co-founder of Coursera, the world’s leading MOOC (Massive Open Online Courses) platform, and an Adjunct Professor at Stanford University's Computer Science Department.  Dr. Ng has authored or co-authored over 100 research papers in machine learning, robotics and related fields. He holds degrees from Carnegie Mellon University, MIT and the University of California, Berkeley."
 -
     name: "Xuedong Huang"
-    photo: "/images/speakers/xuedong-huang.jpg"
-    position: "Chief Scientist <br>of Speech & Language"
+    photo: "/images/speakers/xuedong_huang1.jpg"
+    position: "Chief Scientist  <br>of Speech & Language"
     company: "Microsoft"
+    bio: "Dr. Xuedong Huang is a Microsoft Technical Fellow in Microsoft AI and Research. He leads Microsoft's Speech and Language Team. As Microsoft's Chief Speech Scientist, he pioneered to lead the team achieving a historical conversational speech recognition human parity milestone in 2016. In 1993, Huang joined Microsoft to found the company's speech technology group. As the general manager of Microsoft's spoken language efforts for over a decade, he helped to bring speech recognition to the mass market by introducing SAPI to Windows in 1995 and Speech Server to the enterprise call center in 2004. Prior to his current role, he spent five years in Bing as chief architect working to improve search and ads. Before Microsoft, he was on the faculty at Carnegie Mellon University and achieved the best performance of all categories in 1992’s DARPA speech recognition benchmarking.  He received Alan Newell research excellence leadership medal in 1992 and IEEE Best Paper Award in 1993. He is an IEEE & ACM fellow. He was named as the Asian American Engineer of the Year (2011), and one of Wired Magazine's 25 Geniuses Who Are Creating the Future of Business (2016). He holds over 100 patents and published over 100 papers & 2 books."
+-
+    name: "Alex Acero"
+    photo: "/images/speakers/Alex_Acero.jpg"
+    position: "Sr. Director"
+    company: "Apple Siri"
+    bio: "Alex Acero is Senior Director in the Siri team in charge of speech recognition, speech synthesis, and machine translation. Prior to joining Apple, he spent 20 years at Microsoft Research managing teams in speech, computer vision, NLP, machine translation, machine learning, and information retrieval. Dr. Acero is an IEEE Fellow and ISCA Fellow. He has served as President of the IEEE Signal Processing Society and is currently a member of the IEEE Board of Directors. He is a co-author of the textbook Spoken Language Processing. Dr. Acero has published over 250 technical papers and has over 150 US patents. He received his Ph.D. from Carnegie Mellon in 1990."
 -
     name: "Ruhi Sarikaya"
     photo: "/images/speakers/Ruhi-Sarikaya.jpg"
     position: "Director"
     company: "Amazon Alexa"
+    bio: "Ruhi Sarikaya joined Amazon Alexa team as the Director of Applied Science in 2016. With his team that he has largely built from the ground up, he has been building core capabilities around ranking, relevance, natural language understanding, dialog management, contextual understanding and personalization. Prior to that, he was a principal science manager and the founder of the language understanding and dialog systems group at Microsoft, Redmond, WA between 2011 and 2016. His group has built language understanding and dialog management capabilities of Cortana, Xbox One and the underlying platform supporting both 1st and 3rd parties. Before Microsoft, he was a research staff member and team lead in the Human Language Technologies Group at IBM T.J. Watson Research Center, Yorktown Height, NY for ten years. Before IBM, he worked as a researcher at the Center for Spoken Language Research (CSLR) at the University of Colorado at Boulder for two years.  Ruhi received his PhD in Electrical and Computer Engineering from Duke University, his MS in Electrical and Computer Engineering from Clemson University, and his BS in Electrical Engineering from Bilkent University.  He has published over 100 technical papers in refereed journal and conference proceedings, and is inventor of over 70 issued/pending patents."
 -
     name: "Rahul Sukthankar"
     photo: "/images/speakers/raul-sukthankar.jpg"
     position: "Head of Video Understanding"
     company: "Google"
+    bio: "Rahul Sukthankar leads exploratory research efforts in computer vision, machine learning and robotics at Google. He is also an adjunct research professor at the Robotics Institute at Carnegie Mellon and courtesy faculty at the University of Central Florida. Dr. Sukthankar was previously a senior principal researcher at Intel Labs, a senior researcher at HP/Compaq Labs and a research scientist at Just Research. He received his Ph.D. in Robotics from Carnegie Mellon in 1997 and his B.S.E. in Computer Science from Princeton in 1991. He has organized several academic conferences and serves as Editor in Chief of the Machine Vision and Applications journal."
 -
     name: "Hassan Sawaf"
     photo: "/images/speakers/Hassan-Sawaf.jpg"
@@ -29,31 +39,37 @@
     photo: "/images/speakers/xiaofeng_ren.jpg"
     position: "Chief Scientist"
     company: "Alibaba"
+    bio: "Xiaofeng Ren is currently chief scientist and deputy dean of the Institute of Data Science and Technologies (iDST) at Alibaba Group. He leads computer vision teams at iDST that work across Alibaba Group's diverse e-commerce businesses, from Taobao and TianMao to Youku, Tudou, Alibaba Cloud, and beyond. For 2013-17, he was a senior principal scientist at Amazon and led algorithm developments of Amazon Go. For 2008-13, he was at Intel Labs Seattle and led computer vision research on RGB-D perception (consumer depth cameras) and wearable cameras. For 2006-08 he was on the research faculty of Toyota Technological Institute at Chicago. He received his Ph.D. from UC Berkeley in 2006. Xiaofeng's research and interests span a range of computer vision topics including local features, boundary detection, optical flow, tracking, object detection and recognition, scene understanding, and activity recognition. He holds an affiliate faculty position at University of Washington."
 -
     name: "Danny Shapiro"
     photo: "/images/speakers/Danny_Shapiro.jpg"
     position: "Sr. Director of Automotive"
     company: "Nvidia"
+    bio: "Danny Shapiro is senior director of Automotive at NVIDIA, focusing on artificial intelligence (AI) solutions self-driving cars, trucks and shuttles. The NVIDIA automotive team is engaged with over 225 car and truck makers, tier 1 suppliers, HD mapping companies, sensor companies and startup companies that are all using the company's DRIVE PX hardware and software platform for autonomous vehicle development and deployment. Danny serves on the advisory boards of the Los Angeles Auto Show, the Connected Car Council and the NVIDIA Foundation, which focuses on computational solutions for cancer research. He holds a Bachelor of Science in electrical engineering and computer science from Princeton University and an MBA from the Haas School of Business at UC Berkeley. "
 -
     name: "Magnus Nordin"
     photo: "/images/speakers/magnus-nordin.jpg"
     position: "Technical Director"
     company: "Electronic Arts"
+    bio: "Magnus published his first game in 1983. Since then he has spent 25 years doing computer science and software engineering in a large number of projects and companies. He is currently working with deep learning and AI research in the gaming industry as the Technical Director of SEED, an EA R&D division."
 -
     name: "Jeff Schneider"
     photo: "/images/speakers/jeff_schneider.jpg"
     position: "Director"
     company: "Uber"
+    bio: "Dr. Jeff Schneider is the engineering lead for machine learning at Uber's Advanced Technologies Center.  He is currently on leave from Carnegie Mellon University where he is a research professor in the school of computer science.  He has 20 years experience developing, publishing, and applying machine learning algorithms in government, science, and industry. He has over 100 publications and regularly gives talks and tutorials on the subject."
 -
     name: "Manohar Paluri"
     photo: "/images/speakers/manorhar-paluri.jpg"
-    position: "Manager of<br>Computer Vision"
+    position: "Manager of <br>Computer Vision"
     company: "Facebook"
+    bio: "Manohar Paluri is currently a Research Lead at Facebook AI research and manages the Computer Vision team in the Applied Machine Learning organization. He is passionate about Computer Vision and in the longer term goal of building systems that can perceive the way humans do. Throughout his career he spent considerable time looking at Computer Vision problems in Industry and Academia. He worked at renowned places like Google Research, IBM Watson Research Labs, Stanford Research Institute before helping co found Facebook AI Research directed by Dr. Yann Lecun.  Mr. Paluri spent his formative years at IIIT Hyderabad where he finished his undergraduate studies with Honors in Computer Vision and joined Georgia Tech. to pursue his Ph.D. For over a decade he has been working on various problems related to Computer Vision and in general Perception and has made various contributions through his publications at CVPR, NIPS, ICCV, ECCV, ICLR, KDD, IROS, ACCV etc. He is passionate about building real world systems that are used by billions of people. Some of these systems are running at Facebook and already have tremendous impact on how people communicate using Facebook."
 -
     name: "James Manyika"
     photo: "/images/speakers/james-manyika.jpg"
     position: "Chairman and Director"
     company: "McKinsey Global Institute"
+    bio: "James Manyika is a senior partner at McKinsey & Company and chair and director of the McKinsey Global Institute (MGI), the firm’s business and economics research arm."
 -
     name: "Lukasz Kaiser"
     photo: "/images/speakers/lukasz-kaiser.jpg"
@@ -64,46 +80,53 @@
     photo: "/images/speakers/dilek.jpg"
     position: "Research Scientist"
     company: "Google"
-    hidden: true
+    bio: "Dilek Hakkani-Tür is a research scientist at Google. Prior to joining Google, she was a researcher at Microsoft Research(2010-2016), International Computer Science Institute (ICSI, 2006-2010) and AT&T Labs-Research (2001-2005). She received her BSc degree from Middle East Technical Univ, in 1994, and MSc and PhD degrees from Bilkent Univ., Department of Computer Engineering, in 1996 and 2000, respectively. Her research interests include natural language and speech processing, spoken dialogue systems, and machine learning for language processing. She has over 50 patents that were granted and co-authored more than 200 papers in natural language and speech processing. She is the recipient of three best paper awards for her work on active learning for dialogue systems, from IEEE Signal Processing Society, ISCA and EURASIP. She was an associate editor of IEEE Transactions on Audio, Speech and Language Processing (2005-2008), member of the IEEE Speech and Language Technical Committee (2009-2014), area editor for speech and language processing for Elsevier's Digital Signal Processing Journal and IEEE Signal Processing Letters (2011-2013). She is a fellow of IEEE and ISCA."
 -
     name: "Yuandong Tian"
     photo: "/images/speakers/yuandong-tian.jpg"
     position: "Research Scientist"
     company: "Facebook"
+    bio: "Yuandong Tian is a Research Scientist in Facebook AI Research, working on deep reinforcement learning in games and theoretical analysis of deep non-convex models. He is the leader researcher and engineer for DarkForest (Facebook Computer Go project). Prior to that, he was a Software Engineer/Researcher in Google Self-driving Car team during 2013-2014. He received Ph.D in Robotics Institute, Carnegie Mellon University on 2013, Bachelor and Master degree of Computer Science in Shanghai Jiao Tong University. He is the recipient of 2013 ICCV Marr Prize Honorable Mentions for his work on global optimal solution to non-convex optimization in image alignment."
 -
     name: "Kaijen Hsiao"
     photo: "/images/speakers/kaijen.jpg"
     position: "CTO"
     company: "Mayfield Robotics"
+    bio: "As the CTO of a game-changing, consumer robotics company, I strive to open-up the new capabilities of robotics technology, with particular attention on shared autonomous teleoperation, imitation learning, tactile grasp adjustment, human-aware navigation and, robot mapping and localization. Across my career at MIT, Bosch, and Willow Garage, she has assembled, accelerated, and led robotics teams producing marketable breakthroughs that have sparked startup businesses in the US and Europe. A few more accolades: Robohub honored me as one of the “25 Women in Robotics You Need to Know about,” and I've also been honored as one of Silicon Valley Business Journal's \"Women of Influence.\""
 -
-    name: "Eddie Kessler"
-    photo: "/images/speakers/eddie-kessler-01.jpg"
-    position: "Director"
-    company: "DeepMind"
+    name: "Zico Kolter"
+    photo: "/images/speakers/Zico_Kolter.jpg"
+    position: "Chief Data Scientist"
+    company: "C3 IoT"
+    bio: "Zico Kolter joined C3 IoT as a Chief Data Scientist in 2014. He is also a faculty member in the Computer Science Department at Carnegie Mellon University, where his research focuses on the integration of advanced modeling techniques and optimization into deep learning architectures.  At C3 IoT, he has worked on numerous problems and applications of deep learning, including fraud detection from smart meters, failure prediction in distribution networks, inventory and supply chain optimization, and many others.  He received his Ph.D. in Computer Science from Stanford University in 2010, and was a postdoctoral researcher at MIT from 2010-2012."
 -
     name: "Dileep George"
     photo: "/images/speakers/dileep-01.jpg"
     position: "Co-Founder"
     company: "Vicarious"
+    bio: "Before cofounding Vicarious, Dileep was CTO of Numenta, an AI company he cofounded with Jeff Hawkins and Donna Dubinsky. Before Numenta, Dileep was a Research Fellow at the Redwood Neuroscience Institute. Dileep has authored 22 patents and several influential papers on the mathematics of brain circuits. Dileep's research on hierarchical models of the brain earned him a PhD in Electrical Engineering from Stanford University. He earned his MS in EE from Stanford and his BS from IIT in Bombay."
 -
     name: "Omar Tawakol"
     photo: "/images/speakers/Omar_Tawakol.jpg"
     position: "Founder and CEO"
     company: "Voicera"
+    bio: "Omar Tawakol is the CEO of Workfit. Prior to Workfit, Omar was the founder and CEO of BlueKai which built the worlds largest consumer data marketplace and DMP. After Oracle acquired BlueKai in 2014, Omar served as the SVP & GM of the Oracle Data Cloud (ODC). The ODC powered 97 of the top 100 marketers as well as an ecosystem of AI applications. Based on this experience Omar decided to launch his next venture focused on AI that leverages data to help people become more productive. Omar earned an MS in CS from Stanford (BS, MIT) where he researched and published work on AI agents."
 -
     name: "Dekang Lin"
     photo: "/images/speakers/dekang-lin.jpg"
     position: "Co-Founder and CTO"
     company: "Naturali"
+    bio: "Dekang Lin is co-founder and CTO at Naturali, which builds an app assistant that aims to make every app be able to interact with users in their own language. Prior to co-founding Naturali, Dekang was a Senior Staff Research Scientist at Google and was a Professor at University of Alberta before Google."
 -
     name: "Frank Chen"
     photo: "/images/speakers/Frank_Chen.jpg"
     position: "Partner"
     company: "Andreessen Horowitz"
+    bio: "Frank Chen is a partner at the venture capital firm Andreessen Horowitz and head of its deal and research team. Most recently, Frank was VP of Strategy for HP Software, where he helped navigate rapid enterprise adoption of virtualization technologies across servers, network and storage. Frank joined HP Software through its acquisition of Opsware, where he was VP of Products and User Experience for multiple data center automation products. Frank joined Opsware when it was Loudcloud, a managed services provider, and served as director of Product & Services. Before Loudcloud, Frank was VP of Product Development at Respond.com and director of Product Management at Netscape Communications. Earlier in his career, Frank held various engineering, product management and developer relations roles at GO Corporation, Oracle, Apple and IBM. Frank holds a B.S. in Symbolic Systems from Stanford University where he graduated with distinction and was elected to Phi Beta Kappa."
 -
     name: "SK Reddy"
     photo: "/images/speakers/SK_Reddy.jpg"
-    position: "Chief Product Officer<br>AI & ML"
+    position: "Chief Product Officer <br>AI & ML"
     company: "Digitalist Group"
     hidden: true
 -
@@ -121,24 +144,35 @@
 -
     name: "Roland Memisevic"
     photo: "/images/speakers/roland_memisevic.jpg"
-    position: "Chief Scientist and<br>Co-Founder"
+    position: "Chief Scientist and <br>Co-Founder"
     company: "TwentyBN"
+    bio: "Roland Memisevic received the PhD in Computer Science from the University of Toronto in 2008 doing research on neural networks. He subsequently held positions as a research scientist at PNYLab, Princeton, as a post-doc at the University of Toronto and at ETH Zurich, and as junior professor at the University of Frankfurt. In 2012 he joined the MILA deep learning group at the University of Montreal as an assistant professor. Since 2016 he has been Chief Scientist at the Canadian-German AI startup Twenty Billion Neurons, which he co-founded in 2015. Roland was named Fellow of the Canadian Institute for Advanced Research (CIFAR) in 2015. His research interests are in deep and recurrent neural networks, in particular, as applied to video understanding."
 -
     name: "Ashutosh Garg"
     photo: "/images/speakers/ashutosh_garg.jpg"
     position: "CEO and Founder"
     company: "Volkscience"
+    bio: "Ashu is a machine learning expert, with years of information-retrieval, machine-learning and search experience. Currently he is CEO of VolkScience which is transforming workforces by applying deep learning to recruiting. Previously he was CTO of BloomReach, a machine learning company focused on e-commerce. In the past, he worked as a research staff scientist at Google, where he led personalization and search efforts. He is a prolific publisher and inventor wit 30+ papers and 40+ patents. Ashu earned a bachelor’s in technology from the Indian Institute of Technology, Delhi, and a doctorate in electrical and computer engineering from the University of Illinois, Urbana-Champaign. Ashu has won numerous awards, including best thesis at IIT, an IBM Fellowship and outstanding researcher at the University of Illinois."
 -
     name: "T.M. Ravi"
     photo: "/images/speakers/tm-ravi.jpg"
-    position: "Managing Director<br>& Founder"
+    position: "Managing Director <br>& Founder"
     company: "The Hive"
+    bio: "T. M. Ravi is Managing Director and Co-founder of The Hive (www.hivedata.com). The Hive based in Palo Alto, CA is a venture fund and co-creation studio for Artificial Intelligence (AI) powered startups. The Hive engages with entrepreneurs and corporations to create companies focused on data and AI driven applications in the enterprise and different industry segments. The Hive also has a presence in India and Brazil. Ravi is a frequent speaker at conferences on the topics of AI, enterprise transformation and innovation. Ravi has a successful track record as a serial entrepreneur and operating executive. He has helped start over 25 startups including three where he was founder & CEO: Mimosa Systems (acquired by Iron Mountain), Peakstone Corporation, and Media Blitz (acquired By Cheyenne Software). Ravi was also CMO for Iron Mountain, VP of Marketing at Computer Associates (CA) and VP at Cheyenne Software. Ravi earned a MS and PhD from UCLA and a Bachelors of Technology from IIT, Kanpur, India. He is on the board of Montalvo Art Center based in Saratoga, CA."
+    moderator: true
+-
+    name: "Kartik Hosanagar"
+    photo: "/images/speakers/Kartik_Hosanagar.jpg"
+    position: "Professor"
+    company: "Wharton School"
+    bio: "Kartik Hosanagar is the John C. Hower Professor of Technology and Digital Business and a Professor of Marketing at The Wharton School of the University of Pennsylvania. Kartik’s research work focuses on the digital economy, in particular the impact of analytics and algorithms on consumers and society, Internet media, Internet marketing and e-commerce. Kartik has been recognized as one of the world’s top 40 business professors under 40.  He received his PhD from Carnegie Mellon University and Bachelors from BITS."
     moderator: true
 -
     name: "Xuezhao Lan"
     photo: "/images/speakers/xuezhao_lan.jpg"
     position: "Founding Partner"
     company: "Basis Set Ventures"
+    bio: "Dr. Lan Xuezhao is the founding partner of Basis Set Ventures, a $140M early stage venture focused on enterprise artificial intelligence. Her investments include Clara Labs (a pioneer in human-in-the-loop machine learning, where BSV led the Series A, joined by Sequoia, First Round and Slack fund), and Falkonry (a leader in factory automation). Lan built the Corporate Development Strategy team at Dropbox, one of the most active private tech companies with more than 30 acquisitions. Prior to Dropbox, she worked with McKinsey in New York and Shanghai, advising Fortune 500 companies on issues such as big data/AI strategy, growth strategy, market entry, pricing, and customer lifecycle management. Earlier in her career, Lan was an entrepreneur who built children's brain training games and an analyst with the United Nations Peace Keeping Operations. She studied human brain functions for her Ph.D. and received her MA in Statistics, both from the University of Michigan. She also did her post-doc at Harvard and has produced several peer-reviewed articles in top publications including Science."
     moderator: true
 -
     name: "Ankit Jain"
@@ -151,11 +185,13 @@
     photo: "/images/speakers/Ambarish_Kenghe.png"
     position: "Chief Product Officer"
     company: "Myntra"
+    bio: "Ambarish Kenghe (AK) is the Chief Product Officer at Myntra, India largest online fashion platform. Prior to Myntra AK spent 5 years at Google where he co-founded and launched Chromecast. He has also held leadership roles at Cisco and Bain & Company. AK has M. Tech. from IIT Kanpur, MS from Purdue University and MBA from University of California at Berkeley."
 -
     name: "Andy Pandharikar"
     photo: "/images/speakers/andy_pandharikar.png"
     position: "CEO and Co-founder"
     company: "Commerce.AI"
+    bio: "Andy Pandharikar is the Co-founder/CEO of Commerce.AI. Before that, Andy founded Fitiquette based in San Francisco, which got acquired by Myntra (acquired by Flipkart). Prior to that, Andy held various product and engineering positions at Cisco. He is also a member of SF Angels Group and has invested in a number of startups as an angel investor. He attended M.S. in Management Science and Engineering at Stanford University and an Executive Degree at Harvard Business School. Andy is an outdoor enthusiast, an ultramarathoner, and a certified lead rock climber."
 -
     name: "TBD"
     photo: "/images/speakers/more-to-come.jpg"

@@ -1,40 +1,38 @@
 "Day 1":
     -
         time: "9:00 - 10:00am"
-        title: "Keynote Speech"
-        description: "Overview of the development of deep learning and its applications."
+        keynote: true
+        title: "AI is the New Electricity"
+        description: "Similar to the rise of Electricity starting about 100 years ago, AI today is beginning to transform every major industry. This presentation will discuss how AI can transform your business, share major technology trends and thoughts on where your biggest future opportunities may lie, and describe best practices on incorporating AI, machine learning, and deep learning into your organization. These ideas will also be illustrated with some examples that haven't been presented elsewhere before. "
         speeches:
             -
                 speaker: "Andrew Ng"
                 title: ""
                 description: ""
     -
-        time: "10:00 - 10:30am"
-        title: "Lessons Learned in Advancing Conversational Assistants"
-        description: "Speech and language technologies benefited tremendously from the latest progress in machine learning and knowledge engineering. I will share major lessons learned in advancing modern conversational assistants from Cortana to Customer Support Services."
+        time: "10:00 - 11:30am"
+        title: "Personal Assistants"
+        description: "A panel of industry experts and leading scientists on chatbot and natural language processing come together to discuss their work. What's the future of chatbot?"
+        moderator: "T.M. Ravi"
         speeches:
             -
-                speaker: "Xuedong Huang"
-                title: ""
-                description: ""
-    -
-        time: "10:30 - 11:30am"
-        title: "Personal Assistants"
-        description: "A panel of industry experts and leading scientists on chatbot and natural language processing come together to discuss their work. What's the future of chatbot? Our speakers include Ruhi Sarikaya, Director of Amazon and speaker from Google Assistant."
-        speeches:
+                speaker: "Alex Acero"
+                title: "Deep Learning in Siri"
+                description: "Siri brought personal assistants to the mainstream after its introduction in 2011 in the iPhone. Deep learning is powering many components in Siri: trigger word detection, large vocabulary recognition, text-to-speech, machine translation, and natural language understanding. In this talk I will show a few examples of how deep learning is used in Siri."
             -
                 speaker: "Ruhi Sarikaya"
                 title: "Natural Language Interaction Challenges for Intelligent Personal Assistants"
                 description: "There are three fundamental challenges in interacting with the applications and services running behind intelligent personal assistants (IPAs): 1) application/service discovery, 2) learning what these applications can do, and 3) limited information flow into the apps/services. This same challanges manifests itself in all AI enabled systems. For example, users do not know what skills/apps exists that can handle their requests and they also do not know how to interact with those skills/apps in a natural way. Additionally, these systems have limited ability for contextual conversational understanding. We discuss these issues and explain what is needed to truly understand the user’s intent and serve the most relevant answer for the user’s request."
             -
-                speaker: ""
-                title: ""
-                description: ""
+                speaker: "Dilek Hakkani-Tur"
+                title: "Conversational machines: Deep Learning for Goal-Oriented Dialogue Systems"
+                description: "Creating automated agents with human-level intelligence still remains one of the most challenging problems of AI. In this talk, I will present recent developments in Google Research for end-to-end goal-oriented dialogue systems, with components for language understanding, dialogue state tracking, policy, and language generation. These can be independently built and jointly optimized for dialogue quality and efficient task completion using supervised or reinforcement learning methods. The talk will summarize novel aspects of each component, and highlight novel approaches where we view dialogue as a collaborative game between a user and an agent: The user has a goal in mind and the agent has access to the data that user is interested in, and can perform actions in order to realize the user’s goal. The two engage in a conversation so that the agent can learn the user requirements and help the user browse possible alternatives and find a way for task completion. "
 
     -
         time: "11:30 - 12:30pm"
         title: "Robots"
         description: "A panel of industry experts from companies that are actively developing robots come together to discuss their work. What is the status of robots? How do we build smart home robot?"
+        moderator: "Xuezhao Lan"
         speeches:
             -
                 speaker: "Dileep George"
@@ -50,20 +48,20 @@
     -
         time: "1:30-3:00pm"
         title: "Video Understanding"
-        description: "A panel of industry experts and leading scientists discuss the newest development in computer vision, particularly video analysis. Our speakers include Xiaofeng Ren of Alibaba and Manohar Paluri of Facebook."
+        description: "A panel of industry experts and leading scientists discuss the newest development in computer vision, particularly video analysis."
         speeches:
             -
                 speaker: "Rahul Sukthankar"
-                title: ""
-                description: ""
+                title: "Large-Scale Video Understanding: YouTube and Beyond"
+                description: "This talk will present some recent advances in video understanding at Google. It will cover the technology behind progress in applications such as large-scale video annotation for YouTube, video summarization and Motion Stills, as well as our research in weakly-supervised learning, domain adaptation from YouTube to Google Photos and action recognition. I will also give my perspective on promising directions for future research in video."
             -
                 speaker: "Manohar Paluri"
                 title: "Understanding Video"
                 description: "Video is becoming ubiquitous on the web. From the capture and creation to consumption a lot of amazing things are happening. As folks working in AI this poses a new challenge and great opportunity for us. If we can make machines understand video the way humans do then we can unlock a long set of applications. But, to be able to get there we need to solve many challenging problems, some of which are obvious ones that the academic community is solving – Datasets, Action Recognition, Multi-Modal understanding, Temporal aggregation, Modeling appearance and motion, Compression etc. I would like to discuss these direction and also talk about more longer term directions on self-serve content understanding, large label embedding and video summarization and so on."
             -
                 speaker: "Xiaofeng Ren"
-                title: ""
-                description: ""
+                title: "The Quest for Video Understanding"
+                description: "In this talk I will briefly discuss the ubiquitous needs of video and video understanding across Alibaba and the challenges that are being addressed and solved at iDST, Alibaba's AI R&D division. Examples include mobile shopping on Taobao, video search and recommendation on Youku and Tudou, and real-time systems for Cainiao Logistics and City Brain."
     -
         time: "3:00-3:15pm"
         title: "Industry talk"
@@ -71,15 +69,16 @@
         speeches:
             -
                 speaker: "James Manyika"
-                title: ""
-                description: ""
+                title: "Sizing up the promise of AI"
+                description: "This presentation will draw on new findings from the McKinsey Global Institute's ongoing research on the economic and business impact of AI. It will explore four key questions for AI today: who is investing and where, who is adopting AI and how, where can AI improve corporate performance, and what do business leaders need to know tomorrow morning."
     -
         time: "3:15-3:40pm"
         title: "Coffee Break"
     -
         time: "3:40-4:40pm"
         title: "Autonomous Driving"
-        description: "A panel of industry experts from companies that are actively developing autonomous cars come together to discuss their work. Our speakers include Danny Shapiro of Nvidia and Jeff Schneidar of Uber."
+        moderator: "Kartik Hosanagar"
+        description: "A panel of industry experts from companies that are actively developing autonomous cars come together to discuss their work."
         speeches:
             -
                 speaker: "Danny Shapiro"
@@ -114,12 +113,12 @@
     -
         time: "7-9pm"
         title: "Dinner Banquet"
-        description: "The banquet is a full course sit down dinner with wine, and a chance to interact with the speakers on an one to one basis. It also includes a presentation by a keynote banquet speaker. You will have the opportunity to meet and mingle with other guests, build connections, raise company profile, form potential business and research partnerships."
+        description: "The evening consists of sponsor pitch, and presentation from keynote speaker. The banquet is a full course sit down dinner with wine, and a chance to interact with the speakers on an one to one basis. You will have the opportunity to meet and mingle with other guests, build connections, raise company profile, form potential business and research partnerships."
         speeches:
             -
-                speaker: "Eddie Kessler"
-                title: "From Deep Mind to Large-Scale Google Products."
-                description: ""
+                speaker: "Xuedong Huang"
+                title: "Lessons Learned in Advancing Conversational Assistants"
+                description: "Speech and language technologies benefited tremendously from the latest progress in machine learning and knowledge engineering. I will share major lessons learned in advancing modern conversational assistants from Cortana to Customer Support Services."
 "Day 2":
     -
         time: "9:00-9:30am"
@@ -149,19 +148,34 @@
         title: "Break"
 
     -
-        time: "11:00-12:30pm"
-        title: "Morning Talks Session 2"
-        description: "Presentations and Demos from exciting <b>AI startups</b>.<br>Marning Talks: Leading startup founders or CTOs to speak on their products. <br>"
+        time: "11:00-11:30pm"
+        keynote: true
+        title: "Training Machines to Design Fashion"
+        description: "Fashion is partly an Art and that makes it difficult to understand and create through machines. Myntra is using modern AI techniques to crack this problem and is now able to design many fashion article through machines with no designer intervention whatsoever. This is more than an experiment; we are selling these on our platform with great success. Myntra's Chief Product Office will talk about how they have achieved this and what is next. This can have broad applicability for design in other fields as well. He will also touch on AI techniques Myntra is leveraging to create significant impact of other parts of their business."
         speeches:
             -
                 speaker: "Ambarish Kenghe"
-                title: "Training Machines to Design Fashion"
-                description: "Fashion is partly an Art and that makes it difficult to understand and create through machines. Myntra is using modern AI techniques to crack this problem and is now able to design many fashion article through machines with no designer intervention whatsoever. This is more than an experiment; we are selling these on our platform with great success. Myntra's Chief Product Office will talk about how they have achieved this and what is next. This can have broad applicability for design in other fields as well. He will also touch on AI techniques Myntra is leveraging to create significant impact of other parts of their business."
-            -
-                speaker: "Andy Pandharikar"
                 title: ""
                 description: ""
-
+    -
+        time: "11:30-12:00pm"
+        title: "Morning Talks Session 2"
+        description: "Presentations and Demos from exciting <b>AI startups</b>.<br>Morning Talks: Leading startup founders or CTOs to speak on their products. <br>"
+        speeches:
+            -
+                speaker: "Andy Pandharikar"
+                title: "Deep Product Learning"
+                description: "There are over 5 billion unique products sold worldwide with over 30K new products introduced every month. We are using deep learning to understand product data and associated consumer feedback in the form of natural language. We call it “Deep Product Learning ®”. When AI starts to understand which product features work well, and which don’t, it can start influencing product design as well as marketing and merchandising. But it all starts with building reliable product matching and categorization systems. I will describe why these are non-trivial challenges and highlight other fundamental problems in this space that deep learning can finally solve. I will share our learning from building an applied AI startup and end the talk with our vision for the AI to disrupt commerce as the industry."
+    -
+        time: "12:00-12:30pm"
+        keynote: true
+        title: "Deep Learning and the Digital Transformation"
+        description: "We are in the midst of a digital transformation: a shift in virtually every industry based upon ubiquitous sensing (IoT), hugely scalable computing, vast amounts of data, and artificial intelligence.  At C3 IoT, we have developed a platform to enable and accelerate this digital transformation, used by our customers across multiple industry sectors.  This talk will focus on the role of deep learning within this platform, which provides the \"algorithmic glue\" to unlock value in enterprise digital transformations.  Using the C3 IoT Platform, data scientists can rapidly develop and deploy scalable deep learning services that run against all relevant enterprise data and capture business value in production settings.  I will specifically focus on the role of deep learning in \"non-traditional\" settings (that is, domains that don't involve images, speech, or language).  I will highlight C3 IoT's work using deep learning to both detect fraud and predict and forecast failures.  Across the board, deep learning enables better performance with substantially less human engineering than traditional methods, and offers the potential for truly universal analysis of data."
+        speeches:
+            -
+                speaker: "Zico Kolter"
+                title: ""
+                description: ""
     -
         time: "12:30-1:30pm"
         title: "Lunch"
@@ -185,7 +199,7 @@
     -
         time: "3:30-5:10pm"
         title: "Startup Demo Session"
-        description: "Demos from 9 startups, each startup has 5 minutes for the demo and 5-minute comments from the VC panel.
+        description: "Demos from 10 startups, each startup has 5 minutes for the demo and 5-minute comments from the VC panel.
         <br>
         <b>Demo Startups</b>: <br>
         <ol>
@@ -195,7 +209,7 @@
             <li><a href='https://trueshelf.com/'><img src='/images/startups/true_shelf.png' alt='TrueShelf' height='20px'></a><a href='https://trueshelf.com/'>TrueShelf</a><br>
             TrueShelf is an AI powered adaptive learning platform that adaptively generates an unlimited number of problems.<br>
             Presenter: Dr. Shiva Kintali, Founder & CEO</li>
-            <li><a href='http://www.rfnav.com/'>RFNav, Inc.</a><br>
+            <li><a href='http://www.rfnav.com/'><img src='/images/startups/RFNav.png' alt='RFNav' height='20px'></a><br>
             RFNav is developing an autonomous vehicle navigation system to allow driving in all weather conditions.<br>
             Presenter: Jim Schoenduve, Director of Strategy</li>
             <li><a href='http://www.afanta.ai/'><img src='/images/startups/AFanta.png' alt='AFanta' height='20px'></a><br>
@@ -212,10 +226,13 @@
             Presenter: Santhosh Srinivasan, Cofounder & VP, Engineering; Kamesh Raghavendra, Cofounder & VP, Product</li>
             <li><a href='https://cerebri.com'><img src='/images/startups/Cerebri.png' alt='Cerebri' height='20px'></a><br>
             CerebriAI looks at existing customer journey sequences as well as associated demographics to predict and produce desired sales outcomes.<br>
-            Presenter: Mark Castleman, SVP Strategy & Product
+            Presenter:Jean Belanger, CEO
             <li><a href='https://www.decisionengines.ai'><img src='/images/startups/decisionEngine.png' alt='decisionEngine' height='20px'></a><br>
             Decision Engines is an intelligent end to end business process automation platform that automates human touch points in business processes.<br>
             Presenter: Sridhar Gunapu, Co-Founder</li>
+            <li><a href='http://www.vizzario.com/'><img src='/images/startups/vizzario.png' alt='Vizzario' height='14px'></a><br>
+            The Vizzario AI Platform combines vision science with AI to measure how humans view and interpret visual information, generating new methods to understand, optimize and personalize the end user experience.<br>
+            Presenter: Dr. Khizer Khaderi, CEO/Founder</li>
         </ol>
         <br>
         <b>VC Panelists</b>:

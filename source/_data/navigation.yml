@@ -2,9 +2,10 @@ menu_main:
     "Topics": "/#topics"
     "Speakers": "/#speakers"
     "Schedule": "/#schedule"
-    "Sponsor": "/#spnrs"
+    "Sponsors": "/#spnrs"
     "Blog": "/blog"
     "Jobs": "/jobs"
+    "Volunteers": "/volunteers"
     "Venue": "/#venue"
 
 menu_sub:

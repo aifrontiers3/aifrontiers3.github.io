@@ -25,7 +25,7 @@
 - Sep.1 4.57pm remove the hassan sawaf
 - Sep.1 4.57pm remove the hassan sawaf in schedule
 - Jim triggered a quick deploy with Google Assistant
-- Sep.4 7.35pm added Bloomberg Beta in schedule
+- Sep.4 7.35pm added Bloomberg Beta in schedule 
 - Sep.4 10.06pm change James' title and company
 - Sep.5 5.49pm change lucas time to 25 min
 - Sep.6 temporary remove Google sponsor
@@ -165,3 +165,46 @@
 - Oct 10 10:59pm revert file names in blog post
 - Oct 11 12:33pm add Hui Ju to about us
 - Oct 11 3:23pm fix venue link
+- Oct 11 11:14pm Fix some bugs
+- Oct 11 11:25pm Squash more bugs
+- Oct 11 11:35pm Seperate social links
+- Oct 12 12:03am Clean up code
+- Oct 12 12:12am Add Alex Acero
+- Oct 12 12:47am Change Ambarish Kenghe's session
+- Oct 12 9:47am add Kartik Hosanagar
+- Oct 14 9:47am add TeleTalk
+- Oct 14 5:00pm add AdWords conversion
+- Oct 16 5:00pm optimize AdWords
+- Oct 16 10:00pm optimize conversions
+- Oct 18 11:45am add Kal Mos
+- Oct 19 12:12am add Zico Kolter
+- Oct 19 12:12am add Rahul's talk detail
+- Oct 19 12:12pm add IBM as gold sponsor
+- Oct 19 12:12pm add AWS as gold sponsor
+- Oct 19 2:12pm move zico's photo
+- Oct 19 4:34pm Remove Kal; add Tie
+- Oct 20 1:52pm Add Xiaofeng Ren
+- Oct 20 7:45pm update Amazon Logo and Deeplearning logo
+- Oct 20 8:17pm Add volunteer page
+- Oct 20 8:32pm Add sponsor link
+- Oct 20 10:12pm Remove date on Job and Volunteer page 
+- Oct 21 8:42pm sponsor -> sponsors ; volunteer -> volunteers
+- Oct 23 11:42am more tracking 
+- Oct 23 12:33am update Andy Pandharikar and James Manyika talk
+- Oct 23 4:33pm add Andrew Ng talk abstract
+- Oct 23 7:00pm update volunteer’s register link
+- Oct 23 7:03pm update volunteer’s register link using bit.ly
+- Oct 23 7:17pm add cloud walk and huawei 
+- Oct 24 2:00pm remove Eddie
+- Oct 24 4:00pm add speaker bio
+- Oct 24 4:50pm add Dilek
+- Oct 24 5:38pm add speaker bio
+- Oct 25 9:33am add Vizzario
+- Oct 26 10:28am remove inconsistent speaker list for each session
+- Oct 26 12:28am add bio for Andrew and Xuedong
+- Oct 25 5:26pm modify banquet description
+- Oct 25 5:56pm add Xuezhao Lan bio
+- Oct 25 6:00pm add Kartik Lan bio
+- Oct 25 9:00pm add moderator
+- Jim triggered a quick deploy with Google Assistant
+- Oct 26 10:59pm add more bios

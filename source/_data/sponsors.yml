@@ -1,58 +1,102 @@
 "diamond":
     - 
         name: "C3IoT"
+        link: "https://c3iot.com/"
         logo: "/images/sponsors/C3IoT.png"
         height: 75
 "platinum":
     -
         name: "deeplearning.ai"
-        logo: "/images/sponsors/deeplearningAI-horizontal.png"
-        height: 75
+        link: "https://www.deeplearning.ai/"
+        logo: "/images/sponsors/deeplearningAItrans.png"
+        height: 90
+        offset: 5
     -
         name: "Basisset"
+        link: "https://basisset.ventures/"
         logo: "/images/sponsors/Basis-set.png"
         height: 35
 "gold":
     -
         name: "Microsoft"
+        link: "https://www.microsoft.com/"
         logo: "/images/sponsors/microsoft.png"
         height: 40
     -
         name: "Myntra"
+        link: "https://www.myntra.com/"
         logo: "/images/sponsors/myntra.jpg"
         height: 50
+    -
+        name: "AWS"
+        link: "https://aws.amazon.com/"
+        logo: "/images/sponsors/aws_comb.png"
+        height: 35
+        offset: 8
+    -
+        name: "IBM"
+        link: "https://www.ibm.com/"
+        logo: "/images/sponsors/IBM.png"
+        height: 40
+    -
+        name: "Huawei"
+        link: "http://www.huawei.com/"
+        logo: "/images/sponsors/huawei-horizontal.jpg"
+        height: 50
+    -
+        name: "Cloud Walk"
+        link: "http://www.cloudwalk.cn/"
+        logo: "/images/sponsors/cloud_walk.png"
+        height: 45
 "knowledge partner":
     -
         name: "McKinsey"
+        link: "https://www.mckinsey.com/"
         logo: "/images/sponsors/mckinsey.png"
         height: 30
         offset: 4
     -
         name: "Wharton School"
+        link: "https://www.wharton.upenn.edu/"
         logo: "/images/sponsors/k@w.png"
         height: 20
         offset: 4
 "media partner":
     -
         name: "Synced"
+        link: "https://www.jiqizhixin.com/"
         logo: "/images/sponsors/synced.png"
         height: 55
     -
         name: "The Hive"
+        link: "http://hivedata.com/"
         logo: "/images/sponsors/the-hive.png"
         height: 55
     -
         name: "RobotXSpace"
+        link: "http://robotxspace.com/"
         logo: "/images/sponsors/robotxspace.png"
         height: 35
     -
         name: "Netease"
+        link: "http://www.163.com/"
         logo: "/images/sponsors/netease.png"
         height: 30
     -
         name: "Pingwest"
+        link: "http://en.pingwest.com/"
         logo: "/images/sponsors/Pingwest.png"
         height: 25
+    -
+        name: "TeleTalk"
+        link: "#"
+        logo: "/images/sponsors/TeleTalk.png"
+        height: 25
+    -
+        name: "Tie"
+        link: "https://tieeco.org/"
+        logo: "/images/sponsors/Tie.png"
+        height: 35
 #     -
 #         name: "SV Cafes"
 #         logo: "/images/sponsors/svcafes.png"

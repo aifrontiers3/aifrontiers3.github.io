@@ -1,5 +1,6 @@
 ---
 title: Jobs
+layout: post_nodate
 
 ---
 
