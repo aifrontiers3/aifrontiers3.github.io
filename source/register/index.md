@@ -1,5 +1,0 @@
----
-title: Redirecting...
-layout: register
-
----
