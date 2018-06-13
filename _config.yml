@@ -74,5 +74,5 @@ theme: hexo-theme-aifrontiers
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type: git
-  repo: git@github.com:aifrontiers2/aifrontiers2.github.io.git
+  repo: git@github.com:aifrontiers3/aifrontiers3.github.io.git
   branch: master
