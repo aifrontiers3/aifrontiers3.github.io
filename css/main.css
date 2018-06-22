@@ -1631,6 +1631,14 @@ a.close-modal {
   width: 100%;
   padding: 25px 0;
   user-select: none; }
+  .module-speakers .button {
+    border: 1px solid white;
+    color: white;
+    margin: 8px auto 24px;
+    width: 120px; }
+    .module-speakers .button:hover {
+      background: white;
+      color: #025DC3; }
   .module-speakers .module-title {
     display: block;
     color: white;
@@ -2224,12 +2232,12 @@ a.close-modal {
     .module-venue .venue .conf-info {
       width: 220px;
       font-family: "Avenir Next", "Helvetica Neue", "Arial", sans-serif;
-      font-size: 31px;
+      font-size: 28px;
       color: #FFF;
       letter-spacing: 0;
       line-height: 32px;
       font-weight: 600;
-      margin-right: 30px; }
+      margin-right: 60px; }
       .module-venue .venue .conf-info .venue-time {
         font-size: 18px; }
     .module-venue .venue .venue-info {
