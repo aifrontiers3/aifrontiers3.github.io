@@ -214,3 +214,4 @@
 - Jun 18 3:58pm update Eventbrite URL, change First Conference to Jan 2017 Conference
 - Jun 18 4:04pm update Eventbrite URL
 - Jun 19 10:37pm Add slider
+- Jun 21 5:53pm update sponsor-us description 
