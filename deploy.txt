@@ -217,3 +217,4 @@
 - Jun 21 5:53pm update sponsor-us description
 - Jun 21 5:53pm testfire 2
 - Jun 22 1:18pm Add topics pictures
+- Jun 22 3:09pm change slides back to video
