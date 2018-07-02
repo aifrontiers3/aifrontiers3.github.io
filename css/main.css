@@ -708,11 +708,13 @@ header {
   margin-left: 10px;
   letter-spacing: .7px; }
 
-@media (max-width: 1003px) and (min-width: 600px) {
+@media (max-width: 1123px) and (min-width: 600px) {
   header .social-bar {
     display: none; } }
 
 @media (max-width: 885px) and (min-width: 600px) {
+  header {
+    padding: 10px 0; }
   header .nav-list-link {
     padding: 8px !important; } }
 
