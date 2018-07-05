@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>http://aifrontiers.com/2018/07/10/AI-in-Manufacturing/</loc>
+    
+    <lastmod>2018-07-05T21:00:48.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>http://aifrontiers.com/startup-demo/index.html</loc>
     
     <lastmod>2018-07-02T22:48:37.000Z</lastmod>
@@ -30,7 +37,7 @@
   </url>
   
   <url>
-    <loc>http://aifrontiers.com/about/index.html</loc>
+    <loc>http://aifrontiers.com/volunteers/index.html</loc>
     
     <lastmod>2018-06-12T08:51:32.000Z</lastmod>
     
@@ -44,7 +51,14 @@
   </url>
   
   <url>
-    <loc>http://aifrontiers.com/2017/10/09/McKinsey-Video3/</loc>
+    <loc>http://aifrontiers.com/jobs/index.html</loc>
+    
+    <lastmod>2018-06-12T08:51:32.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://aifrontiers.com/about/index.html</loc>
     
     <lastmod>2018-06-12T08:51:32.000Z</lastmod>
     
@@ -53,35 +67,28 @@
   <url>
     <loc>http://aifrontiers.com/2017/10/10/McKinsey-Video4/</loc>
     
-    <lastmod>2018-06-12T08:51:32.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://aifrontiers.com/jobs/index.html</loc>
-    
-    <lastmod>2018-06-12T08:51:32.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>http://aifrontiers.com/2017/10/05/The-Future-of-AI-at-Home/</loc>
-    
-    <lastmod>2018-06-12T08:51:32.000Z</lastmod>
+    <lastmod>2017-10-10T16:58:08.000Z</lastmod>
     
   </url>
   
   <url>
     <loc>http://aifrontiers.com/2017/10/06/auto_driving/</loc>
     
-    <lastmod>2018-06-12T08:51:32.000Z</lastmod>
+    <lastmod>2017-10-10T01:31:17.000Z</lastmod>
     
   </url>
   
   <url>
-    <loc>http://aifrontiers.com/volunteers/index.html</loc>
+    <loc>http://aifrontiers.com/2017/10/09/McKinsey-Video3/</loc>
     
-    <lastmod>2018-06-12T08:51:32.000Z</lastmod>
+    <lastmod>2017-10-10T01:29:28.000Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>http://aifrontiers.com/2017/10/05/The-Future-of-AI-at-Home/</loc>
+    
+    <lastmod>2017-10-09T21:48:59.000Z</lastmod>
     
   </url>
   
