@@ -223,3 +223,4 @@
 - Jul 02 3:49pm add Startup Demo button and content
 - Jul 05 2:03pm add blog post: AI in Manufacturing
 - Jul 12 10:07am change to schedule format, remove program, add more previous speakers
+- Jul 12 10:25am delete This is the presentation title/description sentence
