@@ -688,8 +688,7 @@ header {
       color: #494A5E;
       font-weight: bold; }
   .navigation ul.nav-sub a.nav-list-link {
-    padding: 5px 12px;
-    opacity: 0.38; }
+    padding: 5px 12px; }
   .navigation ul.nav-main a.nav-list-link {
     padding: 5px 12px; }
 
@@ -773,7 +772,10 @@ header {
           text-align: center;
           font-weight: bold;
           letter-spacing: .5px;
-          font-size: 15px; }
+          font-size: 15px;
+          color: white !important; }
+          .slicknav_menu .slicknav_nav .nav-list-item .nav-list-link * {
+            color: white !important; }
           .slicknav_menu .slicknav_nav .nav-list-item .nav-list-link:hover {
             color: #FFF; }
       .slicknav_menu .slicknav_nav .sub-items {
@@ -1828,6 +1830,7 @@ a.close-modal {
   .module-program .session {
     display: flex;
     width: 100%;
+    box-sizing: border-box;
     flex-direction: row;
     border: solid 1px #E2E2E2;
     border-top: 0;
@@ -1890,6 +1893,37 @@ a.close-modal {
       font-size: 14px;
       line-height: 18px;
       margin-left: 40px; }
+  .module-program .program > .day {
+    display: none;
+    width: 100%; }
+  .module-program .program > #day1 {
+    display: block; }
+  .module-program .day-buttons {
+    height: 72px;
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+    margin-top: 30px;
+    margin-bottom: -30px; }
+    .module-program .day-buttons .day-button {
+      position: relative;
+      z-index: 1;
+      cursor: pointer;
+      width: 33.333333%;
+      box-sizing: border-box;
+      line-height: 72px;
+      font-size: 22px;
+      font-weight: normal;
+      text-align: center;
+      color: white;
+      background: #0057b5;
+      height: 72px;
+      font-weight: 600;
+      letter-spacing: .5px;
+      align-content: baseline;
+      border-right: white 2px solid; }
+      .module-program .day-buttons .day-button:last-of-type {
+        border: 0; }
 
 .module-schedule {
   margin: auto;
@@ -2083,6 +2117,11 @@ a.close-modal {
   .module-schedule .speaker .company {
     color: #414E52;
     text-align: center; }
+  .module-schedule .schedule > .day {
+    display: none;
+    width: 100%; }
+  .module-schedule .schedule > #day1 {
+    display: block; }
   .module-schedule .day-buttons {
     height: 72px;
     width: 100%;
@@ -2090,10 +2129,13 @@ a.close-modal {
     flex-direction: row;
     margin-top: 30px;
     margin-bottom: -30px; }
-    .module-schedule .day-buttons a.day-button {
+    .module-schedule .day-buttons .day-button {
+      position: relative;
+      z-index: 1;
+      cursor: pointer;
       width: 33.333333%;
       box-sizing: border-box;
-      padding: 20px 28px 22px;
+      line-height: 72px;
       font-size: 22px;
       font-weight: normal;
       text-align: center;
@@ -2104,7 +2146,7 @@ a.close-modal {
       letter-spacing: .5px;
       align-content: baseline;
       border-right: white 2px solid; }
-      .module-schedule .day-buttons a.day-button:last-of-type {
+      .module-schedule .day-buttons .day-button:last-of-type {
         border: 0; }
 
 .module-spnrs {

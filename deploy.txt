@@ -222,3 +222,4 @@
 - Jun 27 11:46am update Jeff Dean and Li Deng's title and company
 - Jul 02 3:49pm add Startup Demo button and content
 - Jul 05 2:03pm add blog post: AI in Manufacturing
+- Jul 12 10:07am change to schedule format, remove program, add more previous speakers
