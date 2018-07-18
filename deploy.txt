@@ -225,3 +225,4 @@
 - Jul 12 10:07am change to schedule format, remove program, add more previous speakers
 - Jul 12 10:25am delete This is the presentation title/description sentence
 - Jul 13 1:25am brighten the jumbotron background image
+- Jul 17 5:26pm Added this year's speakers and reverted the schedule back to programs
