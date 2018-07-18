@@ -1633,8 +1633,7 @@ a.close-modal {
   box-sizing: border-box;
   background-color: #015EC3;
   width: 100%;
-  padding: 25px 0;
-  user-select: none; }
+  padding: 25px 0; }
   .module-speakers .button {
     border: 1px solid white;
     color: white;
