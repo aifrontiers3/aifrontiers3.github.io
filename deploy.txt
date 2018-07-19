@@ -230,3 +230,4 @@
 - Jul 17 6:00pm Content updates
 - Jul 17 10:00pm Add three more speakers
 - Jul 18 5:40pm turn on schedule.yml and turn off programs.yml
+- Jul 18 5:55pm fix the date on schedule
