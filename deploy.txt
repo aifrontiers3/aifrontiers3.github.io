@@ -229,3 +229,4 @@
 - Jul 17 5:26pm Fix Rohit's title
 - Jul 17 6:00pm Content updates
 - Jul 17 10:00pm Add three more speakers
+- Jul 18 5:39pm turn on schedule.yml and turn off program
