@@ -232,3 +232,4 @@
 - Jul 18 5:40pm turn on schedule.yml and turn off programs.yml
 - Jul 18 5:55pm fix the date on schedule
 - Jul 19 10:45am add Sumit Gulwani to Our Speakers
+- Jul 20 12:35pm remove 4 previous speakers, adjust current speakers' order
