@@ -235,4 +235,4 @@
 - Jul 20 12:35pm remove 4 previous speakers, adjust current speakers' order
 - Jul 20 3:08pm update schedule.yml, update sponsor us content
 - Jul 20 3:19pm add 4 sponsors
-- Jul 20 6:45pm update schedule.yml
+- Jul 20 6:45pm update schedule.yml 
