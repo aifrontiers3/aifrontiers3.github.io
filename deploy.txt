@@ -236,4 +236,4 @@
 - Jul 20 3:08pm update schedule.yml, update sponsor us content
 - Jul 20 3:19pm add 4 sponsors
 - Jul 20 6:45pm update schedule.yml
-- Jul 23 2:42pm 
+- Jul 23 2:42pm add Mark Moore, hide schedule photos
