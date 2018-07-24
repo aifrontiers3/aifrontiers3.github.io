@@ -237,4 +237,4 @@
 - Jul 20 3:19pm add 4 sponsors
 - Jul 20 6:45pm update schedule.yml
 - Jul 23 2:42pm add Mark Moore, hide schedule photos
-- Jul 23 2:42pm add Mark Moore, hide schedule photos
+- Jul 23 2:42pm add Percy Liang
