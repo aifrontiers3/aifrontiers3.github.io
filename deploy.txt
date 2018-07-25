@@ -242,3 +242,4 @@
 - Jul 23 6:30pm update Rohit Tripathi's title
 - Jul 24 3:30pm update schedule.yml
 - Jul 24 4:40pm update Day2 schedule
+- Jul 24 4:47pm update Day2 schedule
