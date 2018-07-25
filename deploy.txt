@@ -240,3 +240,4 @@
 - Jul 23 2:42pm add Percy Liang
 - Jul 23 5:05pm move up Percy Liang, update schedule.yml: change to Afternoon Keynote
 - Jul 23 6:30pm update Rohit Tripathi's title
+- Jul 24 3:30pm update schedule.yml
