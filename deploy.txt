@@ -238,3 +238,4 @@
 - Jul 20 6:45pm update schedule.yml
 - Jul 23 2:42pm add Mark Moore, hide schedule photos
 - Jul 23 2:42pm add Percy Liang
+- Jul 23 5:05pm move up Percy Liang, update schedule.yml: change to Afternoon Keynote
