@@ -2147,6 +2147,13 @@ a.close-modal {
       border-right: white 2px solid; }
       .module-schedule .day-buttons .day-button:last-of-type {
         border: 0; }
+  .module-schedule .back-to-top {
+    padding-top: 20px;
+    padding-left: 5%; }
+
+@media (max-width: 600px) {
+  .module-schedule .back-to-top {
+    display: none; } }
 
 .module-spnrs {
   padding-bottom: 50px;
