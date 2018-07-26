@@ -251,4 +251,4 @@
 - Jul 25 9:20pm change the look of mobile first screen
 - Jul 25 11:20pm Add Vijay Reddy
 - Jul 26 2:10pm add Matt Feiszli and Quoc's title and abstract
-
+- Jul 26 2:10pm  Change Matt_Feiszli's photo size
