@@ -253,4 +253,4 @@
 - Jul 26 2:10pm add Matt Feiszli and Quoc's title and abstract
 - Jul 26 2:50pm Change Matt_Feiszli's photo size
 - Jul 26 4:15pm hide Frank Chen
-- Jul 26 4:20pm remove Danny La
+- Jul 26 4:20pm remove Danny Lange
