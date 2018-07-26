@@ -244,4 +244,4 @@
 - Jul 24 4:40pm update Day2 schedule
 - Jul 24 4:47pm update Day2 schedule
 - Jul 24 4:50pm update Day2 schedule
-- Jul 25
+- Jul 25 5:55pm change "at" to "of" for speakers' titles
