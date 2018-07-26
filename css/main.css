@@ -2488,7 +2488,7 @@ a.close-modal {
       margin-top: 30px !important;
       margin-bottom: 15px !important; }
   .jumbotron {
-    height: 492px;
+    height: 400px;
     overflow: hidden; }
     .jumbotron .countdown {
       padding-top: 5px; }
@@ -2500,7 +2500,7 @@ a.close-modal {
     .jumbotron .conf-logo {
       display: none; }
     .jumbotron .conf-title {
-      padding-top: 9.6px; }
+      padding-top: 40px; }
       .jumbotron .conf-title .conf-name {
         font-size: 40.8px;
         display: block;
@@ -2515,7 +2515,7 @@ a.close-modal {
     .jumbotron .conf-theme {
       font-weight: 600;
       width: 100%;
-      margin-top: 44px !important;
+      margin-top: 0px !important;
       font-size: 20px;
       line-height: 31px;
       padding-top: 5px; }
