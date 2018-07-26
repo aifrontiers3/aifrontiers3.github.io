@@ -245,3 +245,4 @@
 - Jul 24 4:47pm update Day2 schedule
 - Jul 24 4:50pm update Day2 schedule
 - Jul 25 5:55pm change "at" to "of" for speakers' titles
+- Jul 25 6:10pm add Forbes to News
