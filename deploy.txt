@@ -255,4 +255,4 @@
 - Jul 26 4:15pm hide Frank Chen
 - Jul 26 4:20pm remove Danny Lange
 - Jul 26 5:20pm move Jay Yagnik to dinner keynote, add Matt Feiszli to video understanding
-- Jul 26 5:33pm move Jay Yagnik to AI in Machine Perception and  session
+- Jul 26 5:33pm move Jay Yagnik to AI in Machine Perception and Other Applications session
