@@ -1306,7 +1306,7 @@ footer {
   .jumbotron .buttons {
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: center;
     width: 432px;
     height: 45px;
     margin-top: 20px; }
