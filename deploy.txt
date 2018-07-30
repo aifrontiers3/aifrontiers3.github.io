@@ -257,4 +257,4 @@
 - Jul 26 5:20pm move Jay Yagnik to dinner keynote, add Matt Feiszli to video understanding
 - Jul 26 5:33pm move Jay Yagnik to AI in Machine Perception and Other Applications session
 - Jul 29 11:53am remove watch video button
-- Jul 30 9:08am add Long Jin
+- Jul 30 9:08am add Long Jin 
