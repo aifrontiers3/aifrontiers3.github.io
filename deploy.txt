@@ -258,4 +258,4 @@
 - Jul 26 5:33pm move Jay Yagnik to AI in Machine Perception and Other Applications session
 - Jul 29 11:53am remove watch video button
 - Jul 30 9:08am add Long Jin 
-- Jul 31 2:14pm 
+- Jul 31 2:14pm move speaker to above topics
