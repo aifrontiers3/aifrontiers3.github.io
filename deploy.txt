@@ -267,3 +267,4 @@
 - Aug 1 2:44pm add Long Lin, Samir Kumar, Jason Costa’s photo to Day 2 schedule
 - Aug 1 2:50pm fix one typo in schedule.yml
 - Aug 1 3:41pm add Roland Memisevic to speaker list and video understanding session
+- Aug 1 3:45pm update Roland Memisevic's info to video understanding description
