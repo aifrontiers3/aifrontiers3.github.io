@@ -2047,6 +2047,12 @@ a.close-modal {
       color: #0070E8;
       letter-spacing: 0;
       line-height: 27px; }
+    .module-schedule .session .session-image {
+      width: 100px;
+      margin: auto;
+      display: block;
+      padding: 5px;
+      margin-bottom: 15px; }
     .module-schedule .session .left .session-title {
       display: none; }
     .module-schedule .session .session-description {
