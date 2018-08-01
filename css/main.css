@@ -1928,7 +1928,7 @@ a.close-modal {
   margin: auto;
   margin-top: 10px;
   padding: 0 10%;
-  margin-bottom: 10px;
+  margin-bottom: 30px;
   max-width: 1250px;
   box-sizing: border-box; }
   .module-schedule .module-title {
@@ -2147,9 +2147,16 @@ a.close-modal {
       border-right: white 2px solid; }
       .module-schedule .day-buttons .day-button:last-of-type {
         border: 0; }
+  .module-schedule .continue-reading {
+    margin-top: 15px; }
   .module-schedule .back-to-top {
     padding-top: 20px;
-    padding-left: 5%; }
+    margin-right: 30px;
+    font-size: 18px;
+    font-weight: 600;
+    text-decoration: underline;
+    cursor: pointer;
+    user-select: none; }
 
 @media (max-width: 600px) {
   .module-schedule .back-to-top {
@@ -2169,11 +2176,13 @@ a.close-modal {
     margin: auto;
     flex-flow: row wrap; }
   .module-spnrs .last-years-spnrs, .module-spnrs .this-years-spnrs, .module-spnrs .level {
+    color: #062447;
     display: block;
     font-size: 22px;
     font-weight: bold;
     text-align: center;
-    margin-top: 25px; }
+    margin-top: 25px;
+    margin-bottom: 10px; }
   .module-spnrs .speaker-logo {
     width: 192px; }
   .module-spnrs .spnrship-letter {
