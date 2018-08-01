@@ -265,3 +265,4 @@
 - Aug 1 11:00am update sponsorship letter (use latest 7/31 2:42pm version)
 - Aug 1 2:33pm add back Forbes, but with the link removed
 - Aug 1 2:44pm add Long Lin, Samir Kumar, Jason Costa’s photo to Day 2 schedule
+- Aug 1 2:50pm fix one typo in schedule.yml
