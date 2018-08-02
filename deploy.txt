@@ -271,3 +271,4 @@
 - Aug 1 3:55pm remove Roland Memisevic's co-founder description
 - Aug 1 10:10pm add Percy Liang's talk title and description
 - Aug 2 11:45am add Kai-Fu Lee to speaker list
+- Aug 2 12:32pm change Kai-Fu Lee's photo
