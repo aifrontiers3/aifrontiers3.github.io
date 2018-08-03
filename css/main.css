@@ -2325,13 +2325,10 @@ a.close-modal {
     display: flex;
     flex-direction: row;
     box-sizing: border-box;
-    box-sizing: border-box;
     padding: 13px 62px;
     justify-content: center;
     align-items: center;
-    width: 100%;
-    transform-origin: center;
-    transform: scale(1.2); }
+    width: 100%; }
     .module-venue .hotel .left {
       padding-right: 40px;
       box-sizing: border-box; }
@@ -2365,6 +2362,29 @@ a.close-modal {
         border-radius: 4px;
         color: white;
         margin-left: 50px; }
+
+@media (max-width: 660px) {
+  .hotel {
+    flex-direction: column;
+    padding: 35px 0 45px 0;
+    margin: auto; }
+    .hotel .hotel-name {
+      line-height: 36px !important; }
+    .hotel .left, .hotel .right {
+      width: 100%; }
+    .hotel .left {
+      padding-left: 40px; }
+    .hotel .right {
+      padding: 0 40px;
+      justify-content: flex-start; }
+      .hotel .right .button {
+        width: 220px;
+        margin: 0; }
+    .hotel .hotel-address {
+      line-height: 24px !important;
+      padding: 10px 0 20px; }
+      .hotel .hotel-address span {
+        display: block; } }
 
 .module-about {
   margin: auto;
@@ -2757,27 +2777,6 @@ a.close-modal {
       left: 50px !important;
       width: 300px !important;
       margin: auto; }
-    .module-venue .hotel {
-      flex-direction: column;
-      padding: 35px 0 45px 0;
-      margin: auto; }
-      .module-venue .hotel .hotel-name {
-        line-height: 36px !important; }
-      .module-venue .hotel .left, .module-venue .hotel .right {
-        width: 100%; }
-      .module-venue .hotel .left {
-        padding-left: 40px; }
-      .module-venue .hotel .right {
-        padding: 0 40px;
-        justify-content: flex-start; }
-        .module-venue .hotel .right .button {
-          width: 220px;
-          margin: 0; }
-      .module-venue .hotel .hotel-address {
-        line-height: 24px !important;
-        padding: 10px 0 20px; }
-        .module-venue .hotel .hotel-address span {
-          display: block; }
   .module-contact {
     flex-direction: column;
     box-sizing: border-box;
