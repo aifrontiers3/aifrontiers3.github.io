@@ -2277,7 +2277,8 @@ a.close-modal {
     display: flex;
     flex-direction: row;
     color: white;
-    margin: auto; }
+    margin: auto;
+    height: 300px; }
   .module-venue .map-wrapper {
     width: 80%; }
   .module-venue iframe {
@@ -2285,7 +2286,7 @@ a.close-modal {
     margin: 0;
     height: 300px; }
   .module-venue .venue {
-    min-width: 500px;
+    min-width: 400px;
     box-sizing: border-box;
     padding: 45px 25px;
     display: flex;
@@ -2297,28 +2298,21 @@ a.close-modal {
     .module-venue .venue .venue-mask {
       display: none; }
     .module-venue .venue .conf-info {
-      width: 220px;
-      font-family: "Avenir Next", "Helvetica Neue", "Arial", sans-serif;
-      font-size: 28px;
-      color: #FFF;
-      letter-spacing: 0;
-      line-height: 32px;
-      font-weight: 600;
-      margin-right: 60px; }
-      .module-venue .venue .conf-info .venue-time {
-        font-size: 18px; }
-    .module-venue .venue .venue-info {
       font-family: "Avenir Next", "Helvetica Neue", "Arial", sans-serif;
       font-weight: 600;
       font-size: 13px;
       color: #FFF;
       letter-spacing: 0;
       line-height: 22px; }
-      .module-venue .venue .venue-info span {
-        display: block; }
+      .module-venue .venue .conf-info span {
+        display: block;
+        margin-bottom: 15px;
+        font-size: 17px; }
+      .module-venue .venue .conf-info .venue-name {
+        font-size: 24px; }
     .module-venue .venue .register-button {
       position: absolute;
-      left: 150px;
+      left: 100px;
       background: #0070E8;
       border-radius: 4px;
       box-sizing: border-box;
@@ -2328,12 +2322,12 @@ a.close-modal {
       letter-spacing: .7px; }
   .module-venue .hotel {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
     box-sizing: border-box;
     padding: 13px 62px;
-    max-width: 800px;
-    margin: auto;
-    justify-content: center; }
+    justify-content: center;
+    align-items: left;
+    width: 100%; }
     .module-venue .hotel .left {
       padding-right: 40px; }
       .module-venue .hotel .left span.suggested-hotel {
@@ -2356,9 +2350,9 @@ a.close-modal {
         line-height: 32px; }
     .module-venue .hotel .right {
       display: flex;
-      width: 35%;
-      justify-content: flex-end;
-      align-items: center; }
+      justify-content: flex-start;
+      align-items: center;
+      margin-top: 25px; }
       .module-venue .hotel .right .button {
         border: 1px solid #083365;
         border-radius: 4px; }

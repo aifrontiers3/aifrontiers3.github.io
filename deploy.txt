@@ -274,3 +274,4 @@
 - Aug 2 12:32pm change Kai-Fu Lee's photo
 - Aug 2 12:40pm change Kai-Fu Lee's photo again 
 - Aug 2 6:40pm Add the speakers bar back
+- Aug 3 2:50pm remove "IoT" from Hima's company title 
