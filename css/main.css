@@ -1200,7 +1200,7 @@ footer {
   background-size: cover;
   background-position: center 28%;
   background-color: #000;
-  height: calc( 480px + 7vw);
+  height: calc( 400px + 7vw);
   overflow: hidden; }
   .jumbotron .bg-video {
     background-size: cover;
@@ -1211,7 +1211,7 @@ footer {
     display: block;
     width: 100%;
     min-width: 1250px;
-    height: 130%;
+    height: 160%;
     top: 0;
     left: 0;
     overflow: hidden; }
@@ -2156,11 +2156,12 @@ a.close-modal {
         border: 0; }
   .module-schedule .continue-reading {
     margin: auto;
-    margin-top: 15px; }
+    margin-top: 15px;
+    padding-right: 20vw; }
   .module-schedule .back-to-top {
     padding-top: 20px;
     font-size: 22px;
-    margin: 0 5vw;
+    margin: 0 3vw;
     font-weight: 600;
     text-decoration: underline;
     cursor: pointer;
@@ -2278,7 +2279,7 @@ a.close-modal {
     flex-direction: row;
     color: white;
     margin: auto;
-    height: 300px; }
+    min-height: 300px; }
   .module-venue .map-wrapper {
     width: 80%; }
   .module-venue iframe {
@@ -2286,15 +2287,15 @@ a.close-modal {
     margin: 0;
     height: 300px; }
   .module-venue .venue {
-    min-width: 400px;
+    min-width: 500px;
     box-sizing: border-box;
-    padding: 45px 25px;
+    padding: 40px 25px;
     display: flex;
     position: relative;
     flex-direction: row;
     background: url("/images/venue-bg.jpg");
     background-size: cover;
-    background-position: left center; }
+    background-position: left top; }
     .module-venue .venue .venue-mask {
       display: none; }
     .module-venue .venue .conf-info {
@@ -2322,43 +2323,48 @@ a.close-modal {
       letter-spacing: .7px; }
   .module-venue .hotel {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
+    box-sizing: border-box;
     box-sizing: border-box;
     padding: 13px 62px;
     justify-content: center;
-    align-items: left;
-    width: 100%; }
+    align-items: center;
+    width: 100%;
+    transform-origin: center;
+    transform: scale(1.2); }
     .module-venue .hotel .left {
-      padding-right: 40px; }
+      padding-right: 40px;
+      box-sizing: border-box; }
       .module-venue .hotel .left span.suggested-hotel {
         font-family: "Avenir Next", "Helvetica Neue", "Arial", sans-serif;
-        font-size: 15px;
+        font-size: 20px;
         color: #083365;
         line-height: 32px; }
       .module-venue .hotel .left .hotel-name {
         font-family: "Avenir Next", "Helvetica Neue", "Arial", sans-serif;
         font-weight: 600;
-        font-size: 31px;
+        font-size: 36px;
         color: #0070E8;
         line-height: 32px;
         padding-top: 8px;
         padding-bottom: 3px; }
       .module-venue .hotel .left .hotel-address {
         font-family: "Avenir Next", "Helvetica Neue", "Arial", sans-serif;
-        font-size: 15px;
+        font-size: 17px;
         color: #083365;
         line-height: 32px; }
     .module-venue .hotel .right {
       display: flex;
-      justify-content: flex-start;
+      box-sizing: border-box;
+      justify-content: center;
       align-items: center;
       margin-top: 25px; }
       .module-venue .hotel .right .button {
-        border: 1px solid #083365;
-        border-radius: 4px; }
-        .module-venue .hotel .right .button:hover {
-          background-color: #083365;
-          color: #F6F6F7; }
+        border: 1px solid #0070E8;
+        background-color: #0070E8;
+        border-radius: 4px;
+        color: white;
+        margin-left: 50px; }
 
 .module-about {
   margin: auto;
@@ -2754,16 +2760,19 @@ a.close-modal {
     .module-venue .hotel {
       flex-direction: column;
       padding: 35px 0 45px 0;
-      width: 220px;
       margin: auto; }
       .module-venue .hotel .hotel-name {
         line-height: 36px !important; }
       .module-venue .hotel .left, .module-venue .hotel .right {
         width: 100%; }
+      .module-venue .hotel .left {
+        padding-left: 40px; }
       .module-venue .hotel .right {
-        justify-content: center; }
+        padding: 0 40px;
+        justify-content: flex-start; }
         .module-venue .hotel .right .button {
-          width: 220px; }
+          width: 220px;
+          margin: 0; }
       .module-venue .hotel .hotel-address {
         line-height: 24px !important;
         padding: 10px 0 20px; }
