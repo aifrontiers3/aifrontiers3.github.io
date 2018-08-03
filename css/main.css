@@ -1267,6 +1267,7 @@ footer {
     text-align: center;
     color: white;
     font-weight: 600;
+    margin-top: -60px;
     text-shadow: rgba(0, 0, 0, 0.4) 0px 4px 5px; }
     .jumbotron .conf-title .conf-name {
       font-family: "Audiowide";
@@ -2154,11 +2155,12 @@ a.close-modal {
       .module-schedule .day-buttons .day-button:last-of-type {
         border: 0; }
   .module-schedule .continue-reading {
+    margin: auto;
     margin-top: 15px; }
   .module-schedule .back-to-top {
     padding-top: 20px;
-    margin-right: 30px;
-    font-size: 18px;
+    font-size: 22px;
+    margin: 0 5vw;
     font-weight: 600;
     text-decoration: underline;
     cursor: pointer;

@@ -273,3 +273,4 @@
 - Aug 2 11:45am add Kai-Fu Lee to speaker list
 - Aug 2 12:32pm change Kai-Fu Lee's photo
 - Aug 2 12:40pm change Kai-Fu Lee's photo again 
+- Aug 2 6:40pm Add the speakers bar back
