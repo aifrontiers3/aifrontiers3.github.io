@@ -276,4 +276,4 @@
 - Aug 2 6:40pm Add the speakers bar back
 - Aug 3 2:50pm remove "IoT" from Hima's company title 
 - Aug 3 4:27pm various changes 
-- Aug 3 4:34pm add 
+- Aug 3 4:34pm add Ilya Sutskever
