@@ -277,4 +277,4 @@
 - Aug 3 2:50pm remove "IoT" from Hima's company title 
 - Aug 3 4:27pm various changes 
 - Aug 3 4:34pm add Ilya Sutskever 
-- Aug 3 4:53pm switch Percy Liang and Arnaud Thiercelin's position
+- Aug 3 4:53pm switch Percy Liang and Arnaud Thiercelin's position 
