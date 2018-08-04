@@ -2165,7 +2165,8 @@ a.close-modal {
     font-weight: 600;
     text-decoration: underline;
     cursor: pointer;
-    user-select: none; }
+    user-select: none;
+    color: #0070E8; }
 
 @media (max-width: 600px) {
   .module-schedule .back-to-top {
