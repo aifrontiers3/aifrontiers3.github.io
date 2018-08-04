@@ -279,4 +279,4 @@
 - Aug 3 4:34pm add Ilya Sutskever 
 - Aug 3 4:53pm switch Percy Liang and Arnaud Thiercelin's position
 - Aug 3 8:18pm update schedule
-- Aug 3 10:18pm Add Pieter Abbeel, Ni Lao, add Lukasz Kaiser's training session 
+- Aug 3 10:18pm Add Pieter Abbeel, Ni Lao, add Lukasz Kaiser's training session   
