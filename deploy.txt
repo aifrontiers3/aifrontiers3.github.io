@@ -281,3 +281,4 @@
 - Aug 3 8:18pm update schedule
 - Aug 3 10:18pm Add Pieter Abbeel, Ni Lao, add Lukasz Kaiser's training session
 - Aug 6 12:10pm move Robots and Drones to Day 2 morning, add Mohan as its moderator
+- Aug 6 3:33pm fix typos in schedule.yml
