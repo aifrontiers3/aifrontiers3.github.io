@@ -286,4 +286,5 @@
 - Aug 8 5:20pm Add Read more feature to blog post, add first 3 articles from Medium
 - August 8, 2018 at 09:06PM Jim triggered a quick deploy with Google Assistant
 - Aug 9 3:50pm Add Mario E. Munich
-- Aug 9 4:05pm Change Mohan's photo 
+- Aug 9 4:05pm Change Mohan's photo
+- Aug 9 4:08pm Force Mario Munich's photo to appear ()
