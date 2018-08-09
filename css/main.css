@@ -834,33 +834,48 @@ body.post .post-list {
     body.archive .post-list .post-list-item:last-child,
     body.post .post-list .post-list-item:last-child {
       border-bottom: 0px; }
-  body.blog .post-list .post-content h2:before, body.blog .post-list .post-content h3:before, body.blog .post-list .post-content h4:before, body.blog .post-list .post-content h5:before, body.blog .post-list .post-content h6:before,
-  body.tag .post-list .post-content h2:before,
-  body.tag .post-list .post-content h3:before,
-  body.tag .post-list .post-content h4:before,
-  body.tag .post-list .post-content h5:before,
-  body.tag .post-list .post-content h6:before,
-  body.archive .post-list .post-content h2:before,
-  body.archive .post-list .post-content h3:before,
-  body.archive .post-list .post-content h4:before,
-  body.archive .post-list .post-content h5:before,
-  body.archive .post-list .post-content h6:before,
-  body.post .post-list .post-content h2:before,
-  body.post .post-list .post-content h3:before,
-  body.post .post-list .post-content h4:before,
-  body.post .post-list .post-content h5:before,
-  body.post .post-list .post-content h6:before {
-    content: ''; }
-  body.blog .post-list .post-content > ul,
-  body.tag .post-list .post-content > ul,
-  body.archive .post-list .post-content > ul,
-  body.post .post-list .post-content > ul {
-    list-style: circle; }
+  body.blog .post-list .post-content,
+  body.tag .post-list .post-content,
+  body.archive .post-list .post-content,
+  body.post .post-list .post-content {
+    min-height: 150px; }
+    body.blog .post-list .post-content h2:before, body.blog .post-list .post-content h3:before, body.blog .post-list .post-content h4:before, body.blog .post-list .post-content h5:before, body.blog .post-list .post-content h6:before,
+    body.tag .post-list .post-content h2:before,
+    body.tag .post-list .post-content h3:before,
+    body.tag .post-list .post-content h4:before,
+    body.tag .post-list .post-content h5:before,
+    body.tag .post-list .post-content h6:before,
+    body.archive .post-list .post-content h2:before,
+    body.archive .post-list .post-content h3:before,
+    body.archive .post-list .post-content h4:before,
+    body.archive .post-list .post-content h5:before,
+    body.archive .post-list .post-content h6:before,
+    body.post .post-list .post-content h2:before,
+    body.post .post-list .post-content h3:before,
+    body.post .post-list .post-content h4:before,
+    body.post .post-list .post-content h5:before,
+    body.post .post-list .post-content h6:before {
+      content: ''; }
+    body.blog .post-list .post-content > ul,
+    body.tag .post-list .post-content > ul,
+    body.archive .post-list .post-content > ul,
+    body.post .post-list .post-content > ul {
+      list-style: circle; }
   body.blog .post-list .read-more,
   body.tag .post-list .read-more,
   body.archive .post-list .read-more,
   body.post .post-list .read-more {
-    color: #FFA100; }
+    display: inline-block;
+    color: #AAA;
+    float: right;
+    text-decoration: underline; }
+  body.blog .post-list .read-more:before,
+  body.tag .post-list .read-more:before,
+  body.archive .post-list .read-more:before,
+  body.post .post-list .read-more:before {
+    display: inline-block;
+    content: "+";
+    text-decoration: none; }
 
 aside.sidebar {
   margin-top: 40px;
