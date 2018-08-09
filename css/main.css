@@ -2844,7 +2844,23 @@ a.close-modal {
     width: 100%;
     box-sizing: border-box;
     padding-left: 10px !important;
-    padding-right: 10px !important; } }
+    padding-right: 10px !important; }
+  .module-speakers {
+    order: 1; }
+  .module-topics {
+    order: 2; }
+  .container .subscribe {
+    order: 3; }
+  .module-schedule {
+    order: 4; }
+  .module-spnrs {
+    order: 6; }
+  .module-news {
+    order: 7; }
+  .module-venue {
+    order: 8; }
+  .module-contact {
+    order: 9; } }
 
 @media (max-width: 660px) {
   .hotel {
