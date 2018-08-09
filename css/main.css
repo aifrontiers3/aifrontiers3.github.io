@@ -838,7 +838,8 @@ body.post .post-list {
   body.tag .post-list .post-content,
   body.archive .post-list .post-content,
   body.post .post-list .post-content {
-    min-height: 70px; }
+    height: 130px;
+    overflow: hidden; }
     body.blog .post-list .post-content h2:before, body.blog .post-list .post-content h3:before, body.blog .post-list .post-content h4:before, body.blog .post-list .post-content h5:before, body.blog .post-list .post-content h6:before,
     body.tag .post-list .post-content h2:before,
     body.tag .post-list .post-content h3:before,
@@ -913,7 +914,7 @@ article.post {
     .post-block .post-title a {
       color: #083365; }
   .post-block .post-feature img, .post-block .post-feature iframe {
-    width: 180px;
+    height: 115px;
     padding: 5px;
     background: #FFF;
     margin: 1em 1.5em .5em 0;
