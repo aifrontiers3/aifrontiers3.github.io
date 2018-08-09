@@ -838,7 +838,7 @@ body.post .post-list {
   body.tag .post-list .post-content,
   body.archive .post-list .post-content,
   body.post .post-list .post-content {
-    min-height: 150px; }
+    min-height: 70px; }
     body.blog .post-list .post-content h2:before, body.blog .post-list .post-content h3:before, body.blog .post-list .post-content h4:before, body.blog .post-list .post-content h5:before, body.blog .post-list .post-content h6:before,
     body.tag .post-list .post-content h2:before,
     body.tag .post-list .post-content h3:before,
@@ -984,7 +984,8 @@ article.post {
     background-color: #f66;
     font-family: Roboto, 'Helvetica Neue', Arial, sans-serif; }
   .post-block .post-tags {
-    font-size: 90%; }
+    font-size: 90%;
+    clear: both; }
     .post-block .post-tags .post-tags-label {
       display: inline-block;
       color: #666666; }
