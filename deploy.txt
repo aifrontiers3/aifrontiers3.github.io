@@ -287,4 +287,4 @@
 - August 8, 2018 at 09:06PM Jim triggered a quick deploy with Google Assistant
 - Aug 9 3:50pm Add Mario E. Munich
 - Aug 9 4:05pm Change Mohan's photo
-- Aug 9 4:08pm Force Mario Munich's photo to appear (Mario_Munich.jpg?v=2)
+- Aug 9 4:08pm Force Mario Munich's photo to appear
