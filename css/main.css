@@ -2486,7 +2486,17 @@ a.close-modal {
       color: white;
       text-decoration: underline; }
 
+.mobile-only {
+  display: none !important; }
+
+.desktop-only {
+  display: block !important; }
+
 @media (max-width: 600px) {
+  .mobile-only {
+    display: block !important; }
+  .desktop-only {
+    display: none !important; }
   header,
   .jumbotron,
   .jumbotron-fg,
@@ -2539,10 +2549,11 @@ a.close-modal {
     .jumbotron .conf-title {
       padding-top: 40px; }
       .jumbotron .conf-title .conf-name {
-        width: 280px;
-        font-size: 26px;
-        display: block;
+        font-family: "audiowide";
+        text-transform: uppercase;
+        font-size: 40.8px;
         line-height: 32px;
+        letter-spacing: -2.4px !important;
         text-shadow: 0 2.4px 36px rgba(6, 172, 255, 0.5), 0 2.4px 2.4px black; }
       .jumbotron .conf-title .conf-nd {
         font-size: 26.4px;
@@ -2559,7 +2570,6 @@ a.close-modal {
       .jumbotron .conf-theme .applied, .jumbotron .conf-theme .deep-learning-and, .jumbotron .conf-theme .reinforcement-learning {
         font-size: 25px; }
     .jumbotron .conf-info {
-      margin-top: 14px;
       font-size: 17px;
       font-weight: 500; }
       .jumbotron .conf-info span {
