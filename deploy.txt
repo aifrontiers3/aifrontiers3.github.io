@@ -294,4 +294,4 @@
 - Aug 9 3:50pm Add Mario E. Munich
 - Aug 9 4:05pm Change Mohan's photo
 - Aug 9 4:08pm Force Mario Munich's photo to appear  
-- Aug 9 7:08pm change jumbotron title
+- Aug 9 7:08pm change jumbotron title 

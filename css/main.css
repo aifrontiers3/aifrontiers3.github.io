@@ -2539,6 +2539,7 @@ a.close-modal {
     .jumbotron .conf-title {
       padding-top: 40px; }
       .jumbotron .conf-title .conf-name {
+        width: 280px;
         font-size: 26px;
         display: block;
         line-height: 32px;
