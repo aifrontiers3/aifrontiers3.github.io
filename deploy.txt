@@ -296,4 +296,4 @@
 - Aug 9 4:08pm Force Mario Munich's photo to appear  
 - Aug 9 7:08pm change jumbotron title 
 - Aug 10 2:48pm fix typo: change autonous to autonomous
-- August 10, 2018 at 03:56PM Jim triggered a quick deploy with Google Assistant
+- August 10, 2018 at 03:56PM Jim triggered a quick deploy with Google Assistant 
