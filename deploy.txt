@@ -300,4 +300,4 @@
 - August 12, 2018 at 10:39PM Jim triggered a quick deploy with Google Assistant
 - Aug 13 6:27pm Add Mario Munich to day 2 schedule, separate robots and drones sessions
 - Aug 14 10:45am Add Danny Lange to speaker list
-- Aug 14 12:12pm Hide all previous speakers, add Kai-Fu Lee to day 1 afternoon keynote 
+- Aug 14 12:12pm Hide all previous speakers, add Kai-Fu Lee to day 1 afternoon
