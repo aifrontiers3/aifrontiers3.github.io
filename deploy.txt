@@ -299,3 +299,4 @@
 - August 10, 2018 at 03:56PM Jim triggered a quick deploy with Google Assistant 
 - August 12, 2018 at 10:39PM Jim triggered a quick deploy with Google Assistant
 - Aug 13 6:27pm Add Mario Munich to day 2 schedule, separate robots and drones sessions
+- Aug 14 10:45am Add Danny Lange to speaker list
