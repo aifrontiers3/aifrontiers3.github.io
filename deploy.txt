@@ -302,3 +302,4 @@
 - Aug 14 10:45am Add Danny Lange to speaker list
 - Aug 14 12:12pm Hide all previous speakers, add Kai-Fu Lee to day 1 afternoon
 - Aug 14 12:17pm Hide "Previous Speakers" word
+- Aug 14 12:21pm add V
