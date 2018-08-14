@@ -303,3 +303,4 @@
 - Aug 14 12:12pm Hide all previous speakers, add Kai-Fu Lee to day 1 afternoon
 - Aug 14 12:17pm Hide "Previous Speakers" word
 - Aug 14 12:21pm add Vijay Reddy as the video understanding moderator
+- Aug 14 12:46pm revise day 2 schedule, add T.M. Ravi to AI in enterprise 
