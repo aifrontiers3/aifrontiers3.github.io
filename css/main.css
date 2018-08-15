@@ -2598,6 +2598,13 @@ a.close-modal {
       height: 100% !important; }
     .jumbotron #bgPlayer {
       display: none; }
+    .jumbotron .speakers-bar {
+      height: 10vw !important;
+      transform: none;
+      left: 0; }
+      .jumbotron .speakers-bar .speaker-photo {
+        height: 10vw !important;
+        width: 10vw !important; }
   .module-topics .module-title {
     margin: 10px 0 0 !important; }
   .module-topics .topics {
