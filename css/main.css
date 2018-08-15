@@ -711,13 +711,13 @@ header {
   header .social-bar {
     display: none; } }
 
-@media (max-width: 885px) and (min-width: 600px) {
+@media (max-width: 975px) and (min-width: 600px) {
   header {
     padding: 10px 0; }
   header .nav-list-link {
     padding: 8px !important; } }
 
-@media (max-width: 885px) {
+@media (max-width: 975px) {
   header {
     margin: 0 !important; }
     header .navigation {
