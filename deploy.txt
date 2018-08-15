@@ -306,3 +306,4 @@
 - Aug 14 12:46pm revise day 2 schedule, add T.M. Ravi as AI in enterprise moderator
 - Aug 14 1:00pm add Danny Lange to AI in Games
 - Aug 14 1:00pm Optimize header and jumbotron speakers display
+- Aug 
