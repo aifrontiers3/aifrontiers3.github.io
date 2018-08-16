@@ -307,3 +307,4 @@
 - Aug 14 1:00pm add Danny Lange to AI in Games
 - Aug 14 1:00pm Optimize header and jumbotron speakers display
 - Aug 15 2:43pm add Li Deng's talk title, abstract and bio
+- Aug 15 5:23pm update Li Deng's talk abstract
