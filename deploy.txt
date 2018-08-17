@@ -312,3 +312,4 @@
 - Aug 16 2:35pm add Sameer Sharma to speaker list
 - Aug 16 9:02pm add How to Build a Household Robot: Pieter Abbeel’s Story
 - Aug 16 13:22pm change ai in autonomous driving to ai in enterprises
+- Aug 17 1:53pm Facebook’s Next AI Adventure: Video Understanding
