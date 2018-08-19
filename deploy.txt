@@ -314,3 +314,4 @@
 - Aug 16 13:22pm change ai in autonomous driving to ai in enterprises
 - Aug 17 1:53pm Facebook’s Next AI Adventure: Video Understanding
 - August 18, 2018 at 01:03PM Jim triggered a quick deploy with Google Assistant
+- Aug 18 8:27pm fix typo enterprise
