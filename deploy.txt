@@ -315,4 +315,4 @@
 - Aug 17 1:53pm Facebook’s Next AI Adventure: Video Understanding
 - August 18, 2018 at 01:03PM Jim triggered a quick deploy with Google Assistant
 - Aug 18 8:27pm fix a typo topics.yml
-- Aug 20 1:00pm update blurb message in 
+- Aug 20 1:00pm update blurb message in Facebook, Pieter Abbeel and DJI blog post
