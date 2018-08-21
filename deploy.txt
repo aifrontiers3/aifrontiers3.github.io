@@ -321,3 +321,4 @@
 - Aug 20 7:36pm update schedule and add Opening remark
 - Aug 21 10:32am update Junling's company to Impact Deep LLC, revert day 2 schedule
 - Aug 21 10:35am update Junling's company to Impact Deep
+- Aug 21 10:40am update Opening Remark to Remark"s"
