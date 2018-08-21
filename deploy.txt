@@ -320,3 +320,4 @@
 - Aug 20 6:18pm add Pieter Abbeel's abstract and bio, add Sumit Gulwani's bio
 - Aug 20 7:36pm update schedule and add Opening remark
 - Aug 21 10:32am update Junling's company to Impact Deep LLC, revert day 2 schedule
+- Aug 21 10:35am update Junling's company to Impact Deep
