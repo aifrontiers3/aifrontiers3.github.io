@@ -317,3 +317,4 @@
 - Aug 18 8:27pm fix a typo topics.yml
 - Aug 20 1:00pm update blurb message in Facebook, Pieter Abbeel and DJI blog post
 - Aug 20 5:22pm add Junling to the speaker list (for some sponsor purpose)
+- Aug 20 6:18pm add Pieter Abbeel's abstract and bio, add Sumit 
