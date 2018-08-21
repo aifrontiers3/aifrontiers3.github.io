@@ -318,4 +318,4 @@
 - Aug 20 1:00pm update blurb message in Facebook, Pieter Abbeel and DJI blog post
 - Aug 20 5:22pm add Junling to the speaker list (for some sponsor purpose)
 - Aug 20 6:18pm add Pieter Abbeel's abstract and bio, add Sumit Gulwani's bio
-- Aug 20 7:36pm update schedule and add Opening remark 
+- Aug 20 7:36pm update schedule and add Opening remark  
