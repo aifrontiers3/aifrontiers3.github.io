@@ -329,3 +329,4 @@
 - Aug 21 3:04pm switch Hima and Arnaud's order
 - Aug 21 5:17pm update Samir Kumar's company to M12
 - Aug 21 5:20pm change Samir Kumar's company back to Microsoft Ventures
+- Aug 21 6:06pm add Sarah Guo to the schedule (VC Speech)
