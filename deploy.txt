@@ -328,3 +328,4 @@
 - Aug 21 3:00pm remove Danny Lange from speaker list
 - Aug 21 3:04pm switch Hima and Arnaud's order
 - Aug 21 5:17pm update Samir Kumar's company to M12
+- Aug 21 5:20pm change Samir Kumar's company back to Microsoft Ventures
