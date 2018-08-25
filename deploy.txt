@@ -1,6 +1,6 @@
 2018
 
-8/24 startup Demo edited
+8/24 update Volunteer info
 8/22 update Ab
 8/10 Update headline
 
@@ -338,4 +338,3 @@
 - Aug 22 11:01pm put on Sumit Gulwani's talk abstract
 - Aug 23 9:51am Hide all moderators
 - Aug 24 11:26am Add Sumit Gupta to speaker list and AI in Enterprise
-- Aug 24 4:26pm add Medium post - Li Deng, show volunteer and startup-demo button on top
