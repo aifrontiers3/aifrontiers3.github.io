@@ -339,3 +339,4 @@
 - Aug 22 11:01pm put on Sumit Gulwani's talk abstract
 - Aug 23 9:51am Hide all moderators
 - Aug 24 11:26am Add Sumit Gupta to speaker list and AI in Enterprise
+- Aug 27 11:26am Add knowledge at wharton
