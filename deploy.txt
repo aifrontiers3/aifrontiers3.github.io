@@ -340,3 +340,6 @@
 - Aug 23 9:51am Hide all moderators
 - Aug 24 11:26am Add Sumit Gupta to speaker list and AI in Enterprise
 - Aug 27 11:26am Add knowledge at wharton
+- Aug 27 20:26am Add Roland speech info
+- Aug 27 10:55pm add Kai-Fu Lee's bio, update title from "CEO" to "Chairman & CEO"
+- Aug 28 14:14pm add datatang
