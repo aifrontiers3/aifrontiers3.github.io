@@ -343,3 +343,4 @@
 - Aug 27 20:26am Add Roland speech info
 - Aug 27 10:55pm add Kai-Fu Lee's bio, update title from "CEO" to "Chairman & CEO"
 - Aug 28 14:14pm add datatang
+- Aug 28 2:57pm fix Datatang's link
