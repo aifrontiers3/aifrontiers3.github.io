@@ -266,7 +266,7 @@
 - Jul 26 5:20pm move Jay Yagnik to dinner keynote, add Matt Feiszli to video understanding
 - Jul 26 5:33pm move Jay Yagnik to AI in Machine Perception and Other Applications session
 - Jul 29 11:53am remove watch video button
-- Jul 30 9:08am add Long Jin 
+- Jul 30 9:08am add Long Jin
 - Jul 31 2:14pm move speaker to above topics
 - Jul 31 2:56pm remove more prev speakers
 - Jul 31 11:08pm add Bosch as the platium sponsor! yes!
@@ -281,11 +281,11 @@
 - Aug 1 10:10pm add Percy Liang's talk title and description
 - Aug 2 11:45am add Kai-Fu Lee to speaker list
 - Aug 2 12:32pm change Kai-Fu Lee's photo
-- Aug 2 12:40pm change Kai-Fu Lee's photo again 
+- Aug 2 12:40pm change Kai-Fu Lee's photo again
 - Aug 2 6:40pm Add the speakers bar back
-- Aug 3 2:50pm remove "IoT" from Hima's company title 
-- Aug 3 4:27pm various changes 
-- Aug 3 4:34pm add Ilya Sutskever 
+- Aug 3 2:50pm remove "IoT" from Hima's company title
+- Aug 3 4:27pm various changes
+- Aug 3 4:34pm add Ilya Sutskever
 - Aug 3 4:53pm switch Percy Liang and Arnaud Thiercelin's position
 - Aug 3 8:18pm update schedule
 - Aug 3 10:18pm Add Pieter Abbeel, Ni Lao, add Lukasz Kaiser's training session
@@ -296,10 +296,10 @@
 - August 8, 2018 at 09:06PM Jim triggered a quick deploy with Google Assistant
 - Aug 9 3:50pm Add Mario E. Munich
 - Aug 9 4:05pm Change Mohan's photo
-- Aug 9 4:08pm Force Mario Munich's photo to appear  
-- Aug 9 7:08pm change jumbotron title 
+- Aug 9 4:08pm Force Mario Munich's photo to appear
+- Aug 9 7:08pm change jumbotron title
 - Aug 10 2:48pm fix typo: change autonous to autonomous
-- August 10, 2018 at 03:56PM Jim triggered a quick deploy with Google Assistant 
+- August 10, 2018 at 03:56PM Jim triggered a quick deploy with Google Assistant
 - August 12, 2018 at 10:39PM Jim triggered a quick deploy with Google Assistant
 - Aug 13 6:27pm Add Mario Munich to day 2 schedule, separate robots and drones sessions
 - Aug 14 10:45am Add Danny Lange to speaker list
@@ -344,4 +344,6 @@
 - Aug 27 10:55pm add Kai-Fu Lee's bio, update title from "CEO" to "Chairman & CEO"
 - Aug 28 14:14pm add datatang
 - Aug 28 2:57pm fix Datatang's link
-- Aug 29 2:57pm remove facebook team training 
+- Aug 29 2:57pm remove facebook team training
+- Aug 29 23:57pm update the ogp image
+- Aug 30 00:15pm testfire 1
