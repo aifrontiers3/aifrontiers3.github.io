@@ -350,3 +350,4 @@
 - Aug 30 12:40pm add Enigma Pattern and CVEDIA to gold sponsor
 
 - August 30, 2018 at 12:58PM Jim triggered a quick deploy with Google Assistant
+- Aug 30 5:24pm switch the order of Datatang and CVEDIA
