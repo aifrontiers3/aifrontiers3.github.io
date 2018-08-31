@@ -346,8 +346,6 @@
 - Aug 28 2:57pm fix Datatang's link
 - Aug 29 2:57pm remove facebook team training
 - Aug 29 23:57pm update the ogp image
-- Aug 30 00:15pm testfire 1
 - Aug 30 12:40pm add Enigma Pattern and CVEDIA to gold sponsor
-
 - August 30, 2018 at 12:58PM Jim triggered a quick deploy with Google Assistant
 - Aug 30 5:24pm switch the order of Datatang and CVEDIA
