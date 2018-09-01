@@ -1725,7 +1725,7 @@ a.close-modal {
     width: 100vw;
     height: 100vh;
     box-sizing: border-box;
-    padding: 45px;
+    padding: 0 45px;
     justify-content: start;
     align-items: center;
     background: #015EC3;
@@ -1746,7 +1746,8 @@ a.close-modal {
       flex-direction: column;
       justify-content: start;
       align-items: center;
-      max-width: 660px; }
+      max-width: 660px;
+      padding: 45px 0; }
       .module-speakers .speaker .details .wrap .photo {
         box-sizing: border-box;
         width: 150px;
@@ -2646,16 +2647,14 @@ a.close-modal {
         font-size: 12px !important;
         padding: 8px 0 !important;
         line-height: 20px !important; }
-      .module-speakers .speaker .details .wrap .sessions {
-        padding: 8px 0 !important; }
-        .module-speakers .speaker .details .wrap .sessions .title {
-          font-size: 16px !important;
-          line-height: 20px !important;
-          padding: 0; }
-        .module-speakers .speaker .details .wrap .sessions .description {
-          font-size: 12px !important;
-          padding: 8px 0 !important;
-          line-height: 20px !important; }
+      .module-speakers .speaker .details .wrap .sessions .title {
+        font-size: 16px !important;
+        line-height: 20px !important;
+        padding: 0; }
+      .module-speakers .speaker .details .wrap .sessions .description {
+        font-size: 12px !important;
+        padding: 8px 0 !important;
+        line-height: 20px !important; }
   .module-programs {
     margin-top: 20px;
     box-sizing: border-box; }
