@@ -700,7 +700,7 @@ header {
 
 .buy-tickets {
   color: #FFFFFF;
-  width: 113px;
+  width: 100px;
   height: 20px;
   background: #0070E8;
   padding: 9px 18px 11px;
@@ -1207,7 +1207,6 @@ footer {
 
 .jumbotron {
   position: relative;
-  user-select: none;
   box-sizing: border-box;
   width: 100%;
   background-image: url(/images/jumbotron-bg.jpg);
@@ -1248,7 +1247,6 @@ footer {
       cursor: pointer;
       text-shadow: 0 0 2px rgba(0, 0, 0, 0.8); }
   .jumbotron .jumbotron-fg {
-    pointer-events: none;
     position: absolute;
     z-index: 7;
     width: 100%;
@@ -1327,12 +1325,12 @@ footer {
       position: relative;
       pointer-events: auto;
       display: inline-block;
-      width: 204px;
+      width: 180px;
       box-sizing: border-box; }
     .jumbotron .buttons .register-button {
       background-color: #0070E8;
       color: white;
-      letter-spacing: 1.01px; }
+      letter-spacing: .7px; }
     .jumbotron .buttons .video-button {
       background-color: white;
       font-weight: 600;
@@ -1755,10 +1753,8 @@ a.close-modal {
         height: 150px;
         border-radius: 1000px;
         margin-bottom: 16px; }
-      .module-speakers .speaker .details .wrap span {
-        margin: 2px 0; }
       .module-speakers .speaker .details .wrap .bio .content {
-        padding: 24px 0;
+        display: block;
         width: 100%;
         line-height: 24px;
         text-align: justify; }
@@ -1965,28 +1961,25 @@ a.close-modal {
     width: 155px;
     height: 25px; }
   .module-schedule .heading-box {
-    display: block;
+    display: flex;
     box-sizing: border-box;
-    padding: 0 28px 22px;
+    padding-left: 22px;
+    padding-right: 22px;
     margin: auto;
     width: 100%;
     font-size: 22px;
-    margin-top: 30px;
     font-weight: normal;
     color: white;
     background: #0070E8;
     height: 72px;
     font-weight: 600;
     letter-spacing: .5px;
-    align-content: baseline; }
+    justify-content: space-between;
+    flex-flow: row wrap;
+    align-items: center; }
     .module-schedule .heading-box a {
-      padding-top: 20px;
       color: white; }
-    .module-schedule .heading-box .day-heading {
-      float: left; }
     .module-schedule .heading-box .day-date {
-      float: right;
-      padding-top: 20px;
       font-size: 18px; }
   .module-schedule .session {
     display: flex;
@@ -2144,11 +2137,11 @@ a.close-modal {
     width: 100%;
     display: flex;
     flex-direction: row;
-    margin-top: 30px;
-    margin-bottom: -30px; }
+    margin-top: 30px; }
     .module-schedule .day-buttons .day-button {
       position: relative;
       z-index: 1;
+      box-sizing: border-box;
       cursor: pointer;
       width: 33.333333%;
       box-sizing: border-box;
@@ -2156,15 +2149,17 @@ a.close-modal {
       font-size: 22px;
       font-weight: normal;
       text-align: center;
-      color: white;
-      background: #0057b5;
       height: 72px;
       font-weight: 600;
       letter-spacing: .5px;
       align-content: baseline;
-      border-right: white 2px solid; }
-      .module-schedule .day-buttons .day-button:last-of-type {
-        border: 0; }
+      border-bottom: 0;
+      user-select: none;
+      color: #0057b5;
+      background: #c0deff; }
+    .module-schedule .day-buttons .day-button--active {
+      background: #0057b5;
+      color: white; }
   .module-schedule .continue-reading {
     margin: auto;
     margin-top: 15px;
