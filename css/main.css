@@ -522,6 +522,7 @@ ul, ol {
   font-style: 400; }
 
 :root {
+  --link-color: #0070E8;
   --header-height: 88px;
   --header-padding-Y: 20px; }
 
@@ -563,6 +564,7 @@ ul.post-list {
   list-style-type: none; }
 
 a {
+  color: var(--link-color);
   text-decoration: none; }
 
 hr {
