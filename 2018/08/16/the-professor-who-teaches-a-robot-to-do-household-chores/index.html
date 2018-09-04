@@ -135,24 +135,11 @@ var trackOutboundLink = (url) => {
     });
 }
 </script><script type="text/javascript">$(".module-speakers .speakers .speaker, .module-speakers .moderators .speaker").click(function(e) {
-    var target = $(e.target);
-    if (target.hasClass("details")) {
-        $details = target.parent();
-        $details.css("opacity", "0");
-        $details.css("display", "none");
-        $(this).css("cursor", "pointer");
-    }
-    else {
-        $details = $(".details", this);
-        $details.css("display", "flex");
-        $details.css("opacity", "1");
-        $(this).css("cursor", "auto");
-    }
+    $(this).toggleClass("speaker--active")
 });
 $(document).keyup(function(e) {
     $details = $(".module-speakers .speakers .speaker .details, .module-speakers .moderators .speaker .details");
     if (e.which == 27) {
-        $details.css("opacity", "0");
         $details.css("display", "none");
         $details.parent().css("cursor", "pointer");
     }

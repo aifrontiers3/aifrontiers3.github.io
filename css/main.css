@@ -1645,12 +1645,11 @@ a.close-modal {
     font-family: "Helvetica Narrow";
     letter-spacing: -1.4px;
     transform: scaleY(1.1); }
+  .module-speakers .speaker--active .details {
+    display: flex !important; }
   .module-speakers .speaker .details {
-    display: flex;
     display: none;
-    opacity: 0;
     overflow-y: scroll;
-    transition: opacity 2s;
     flex-direction: column;
     position: fixed;
     z-index: 100;
