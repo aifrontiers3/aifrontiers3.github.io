@@ -1301,8 +1301,9 @@ footer {
         filter: drop-shadow(0 2px 20px rgba(6, 172, 255, 0.8)) drop-shadow(0 2px 2px black);
         margin-right: .2em; }
       .jumbotron .conf-title .conf-name .conf-nd {
-        display: inline-block;
         margin-left: .2em; }
+      .jumbotron .conf-title .conf-name .conf-nd.desktop-only {
+        display: inline-block !important; }
       .jumbotron .conf-title .conf-name .conf-nd.mobile-only {
         font-family: "Helvetica Neue";
         display: block;
