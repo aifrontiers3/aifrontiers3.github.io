@@ -2005,7 +2005,7 @@ a.close-modal {
       letter-spacing: 0;
       line-height: 27px; }
     .module-schedule .session .session-image {
-      width: 100px;
+      height: 30px;
       margin: auto;
       display: block;
       padding: 5px;
