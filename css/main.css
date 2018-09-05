@@ -1279,7 +1279,9 @@ footer {
     font-weight: 600;
     font-size: 35px;
     text-shadow: 0 2px 110px rgba(6, 172, 255, 0.8), 0 2px 2px black;
-    line-height: 48px; }
+    line-height: 48px;
+    margin-top: 0;
+    margin-bottom: 20px; }
   .jumbotron .conf-title {
     font-family: "Helvetica Neue";
     text-align: center;
@@ -1287,7 +1289,7 @@ footer {
     text-shadow: rgba(0, 0, 0, 0.4) 0px 4px 5px; }
     .jumbotron .conf-title .conf-name {
       display: block;
-      margin-bottom: 20px;
+      margin-top: 0;
       font-family: "Avenir Next", "Helvetica Neue", "Arial", sans-serif;
       text-transform: uppercase;
       color: #FFFFFF;
@@ -1301,23 +1303,24 @@ footer {
         filter: drop-shadow(0 2px 20px rgba(6, 172, 255, 0.8)) drop-shadow(0 2px 2px black);
         margin-right: .2em; }
   .jumbotron .conf-theme {
+    display: none;
     font-family: "Avenir Next", "Helvetica Neue", "Arial", sans-serif;
     color: white;
     font-size: 27px;
     font-weight: 600;
-    margin-top: 20px;
+    margin-bottom: 0;
     width: 700px;
     text-align: center;
     text-shadow: rgba(0, 0, 0, 0.3) 0px 4px 3px; }
   .jumbotron .conf-info {
     font-family: "Avenir Next", "Helvetica Neue", "Arial", sans-serif;
-    font-size: 18px;
     text-align: center;
-    font-weight: 400;
     color: white;
     margin-bottom: 15px;
     text-shadow: rgba(0, 0, 0, 0.4) 0px 4px 3px; }
     .jumbotron .conf-info * {
+      font-size: 18px;
+      font-weight: 400;
       display: inline; }
   .jumbotron .buttons {
     display: flex;
