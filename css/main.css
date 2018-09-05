@@ -525,7 +525,8 @@ ul, ol {
   --link-color: #0070E8;
   --header-height: 88px;
   --header-padding-Y: 20px;
-  --button-shadow: 0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08); }
+  --button-shadow: 0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08);
+  --button-shadow--hover: 0 7px 14px rgba(50,50,93,.1), 0 3px 6px rgba(0,0,0,.08); }
 
 @media (max-width: 1080px) {
   :root {
@@ -628,6 +629,16 @@ iframe {
   height: 500px !important;
   max-width: 880px; }
 
+.button-effects {
+  transition: all .15s ease;
+  box-shadow: var(--button-shadow); }
+  .button-effects:hover {
+    box-shadow: var(--button-shadow--hover);
+    transform: translateY(-1px); }
+  .button-effects:active {
+    transition: none;
+    transform: translateY(0); }
+
 header {
   background: white;
   height: var(--header-height);
@@ -715,8 +726,7 @@ header {
   width: 80px;
   height: 20px;
   background: #0070E8;
-  padding: 9px 18px 11px;
-  box-shadow: var(--button-shadow); }
+  padding: 9px 18px 11px; }
 
 @media (max-width: 1200px) {
   header .social-bar {
@@ -733,12 +743,12 @@ header {
     z-index: 11;
     display: block;
     padding: 0;
-    background: transparent;
-    box-shadow: var(--button-shadow); }
+    background: transparent; }
     .slicknav_menu .slicknav_btn {
       background: #FFF;
       margin: 0;
-      border: solid 1px #BFBFBF; }
+      border: solid 1px #BFBFBF;
+      box-shadow: var(--button-shadow); }
       .slicknav_menu .slicknav_btn.slicknav_open {
         border: solid 1px #BFBFBF;
         border-color: #0070E8;
@@ -1262,27 +1272,37 @@ footer {
     margin-top: 100px;
     height: 50px;
     display: none; }
-  .jumbotron .conf-title {
-    font-family: "Avenir Next", "Helvetica Neue", "Arial", sans-serif;
+  .jumbotron .conf-slogan {
+    font-family: "Helvetica Neue";
     text-align: center;
     color: white;
     font-weight: 600;
-    margin-top: -60px;
+    font-size: 35px;
+    text-shadow: 0 2px 110px rgba(6, 172, 255, 0.8), 0 2px 2px black;
+    line-height: 48px; }
+  .jumbotron .conf-title {
+    font-family: "Helvetica Neue";
+    text-align: center;
+    color: white;
     text-shadow: rgba(0, 0, 0, 0.4) 0px 4px 5px; }
     .jumbotron .conf-title .conf-name {
-      font-family: "Helvetica Neue";
+      display: block;
+      margin-bottom: 20px;
+      font-family: "Avenir Next", "Helvetica Neue", "Arial", sans-serif;
+      text-transform: uppercase;
       color: #FFFFFF;
       text-shadow: 0 2px 110px rgba(6, 172, 255, 0.8), 0 2px 2px black;
-      font-size: 35px;
-      line-height: 48px; }
-    .jumbotron .conf-title .conf-nd {
-      font-size: 30px;
-      display: block;
-      font-weight: 600;
-      letter-spacing: 3.6px;
-      line-height: 40px;
-      height: 55px;
+      font-size: 27px;
+      font-weight: 400;
       text-transform: uppercase; }
+      .jumbotron .conf-title .conf-name img {
+        display: inline-block;
+        height: 1em;
+        filter: drop-shadow(0 2px 20px rgba(6, 172, 255, 0.8)) drop-shadow(0 2px 2px black);
+        margin-right: .2em; }
+      .jumbotron .conf-title .conf-name .conf-nd {
+        display: inline-block;
+        margin-left: .2em; }
   .jumbotron .conf-theme {
     font-family: "Avenir Next", "Helvetica Neue", "Arial", sans-serif;
     color: white;
@@ -1318,7 +1338,8 @@ footer {
     .jumbotron .buttons .register-button {
       background-color: #0070E8;
       color: white;
-      letter-spacing: .7px; }
+      letter-spacing: .7px;
+      box-shadow: 0 4px 6px rgba(50, 50, 93, 0.55), 0 1px 3px rgba(0, 0, 0, 0.4); }
     .jumbotron .buttons .video-button {
       background-color: white;
       font-weight: 600;
