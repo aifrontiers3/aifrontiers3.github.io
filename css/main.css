@@ -1303,6 +1303,12 @@ footer {
       .jumbotron .conf-title .conf-name .conf-nd {
         display: inline-block;
         margin-left: .2em; }
+      .jumbotron .conf-title .conf-name .conf-nd.mobile-only {
+        font-family: "Helvetica Neue";
+        display: block;
+        margin-left: 0;
+        margin-top: 10px;
+        font-weight: 400; }
   .jumbotron .conf-theme {
     font-family: "Avenir Next", "Helvetica Neue", "Arial", sans-serif;
     color: white;
