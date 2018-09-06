@@ -2561,8 +2561,6 @@ a.close-modal {
   .intro-video iframe,
   .container,
   .module,
-  .module-title,
-  a.module-title,
   .speakers,
   .moderators,
   .programs-description,
@@ -2585,9 +2583,7 @@ a.close-modal {
     padding-top: 5px !important;
     padding-bottom: 5px !important; }
     .module .module-title {
-      font-size: 30px !important;
-      margin-top: 30px !important;
-      margin-bottom: 15px !important; }
+      font-size: 30px !important; }
   .jumbotron {
     height: 400px;
     overflow: hidden; }
@@ -2619,8 +2615,6 @@ a.close-modal {
       font-size: 20px;
       line-height: 31px;
       padding-top: 5px; }
-      .jumbotron .conf-theme .applied, .jumbotron .conf-theme .deep-learning-and, .jumbotron .conf-theme .reinforcement-learning {
-        font-size: 25px; }
     .jumbotron .conf-info {
       font-size: 17px;
       font-weight: 500; }
@@ -2657,8 +2651,6 @@ a.close-modal {
       .jumbotron .speakers-bar .speaker-photo {
         height: 10vw !important;
         width: 10vw !important; }
-  .module-topics .module-title {
-    margin: 10px 0 0 !important; }
   .module-topics .topics {
     padding: 10px 0;
     padding-bottom: 0;
@@ -2678,8 +2670,6 @@ a.close-modal {
       text-align: left;
       font-size: 17px;
       line-height: 24px; }
-  .module-speakers .module-title {
-    margin: 10px 0 0 !important; }
   .module-speakers .speakers, .module-speakers .moderators {
     justify-content: center; }
   .module-speakers .speaker {
@@ -2721,8 +2711,6 @@ a.close-modal {
   .module-programs {
     margin-top: 20px;
     box-sizing: border-box; }
-    .module-programs .module-title {
-      margin: 10px 0 0 !important; }
     .module-programs .session-time {
       margin-bottom: 0 !important;
       display: none !important; }
@@ -2795,7 +2783,6 @@ a.close-modal {
       padding-bottom: 15px; }
   .module-venue {
     position: relative;
-    padding-top: 0 !important;
     padding-bottom: 0 !important;
     background-size: cover;
     background-position: left center; }
