@@ -734,7 +734,8 @@ header {
   width: 80px;
   height: 20px;
   background: #0070E8;
-  padding: 9px 18px 11px; }
+  padding: 9px 18px 11px;
+  margin-left: 10px; }
 
 @media (max-width: 1200px) {
   header .social-bar {
