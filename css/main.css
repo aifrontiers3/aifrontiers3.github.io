@@ -528,7 +528,7 @@ ul, ol {
   --button-shadow: 0 4px 6px rgba(50,50,93,.11), 0 1px 3px rgba(0,0,0,.08);
   --button-shadow--hover: 0 7px 14px rgba(50,50,93,.1), 0 3px 6px rgba(0,0,0,.08); }
 
-@media (max-width: 1080px) {
+@media (max-width: 980px) {
   :root {
     --header-height: 66px;
     --header-padding-Y: 9px; } }
@@ -737,11 +737,11 @@ header {
   padding: 9px 18px 11px;
   margin-left: 10px; }
 
-@media (max-width: 1200px) {
+@media (max-width: 1100px) {
   header .social-bar {
     display: none; } }
 
-@media (max-width: 1080px) {
+@media (max-width: 980px) {
   header .navigation {
     display: none; }
   header .slicknav_menu {
