@@ -81,15 +81,15 @@ var trackOutboundLink = (url) => {
 })();
 </script><script type="text/javascript">if (window.mobilecheck()) {
     $(".day-buttons").hide();
-    // $(".schedule > .day").css("display", "block");
+    $(".schedule > .day").css("display", "block");
 } else {
     $($(".schedule .day-button")[0]).addClass("day-button--active");
     $(".schedule .day-button").click(function(){
         var idx = $(".schedule .day-button").index(this) % 3;
-        // $(".schedule div.day").css("display", "none");
+        $(".schedule div.day").css("display", "none");
         $(".schedule .day-button").removeClass("day-button--active");
         $($(".schedule .day-button")[idx]).addClass("day-button--active");
-        // $($(".schedule > .day")[idx]).css("display", "block");
+        $($(".schedule > .day")[idx]).css("display", "block");
         if ($(this).hasClass("back-to-top")) {
             window.location.hash = "#schedule";
             window.location.href = "#schedule";
