@@ -2,6 +2,13 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
+    <loc>https://aifrontiers.com/sponsor-us/index.html</loc>
+    
+    <lastmod>2018-09-10T19:39:02.000Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://aifrontiers.com/volunteers/index.html</loc>
     
     <lastmod>2018-09-10T17:42:23.000Z</lastmod>
@@ -152,13 +159,6 @@
     <loc>https://aifrontiers.com/blog/index.html</loc>
     
     <lastmod>2018-08-08T23:04:50.000Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://aifrontiers.com/sponsor-us/index.html</loc>
-    
-    <lastmod>2018-08-02T19:03:52.000Z</lastmod>
     
   </url>
   
