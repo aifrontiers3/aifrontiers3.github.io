@@ -2549,6 +2549,41 @@ a.close-modal {
     padding-top: 60px;
     height: 800px; }
 
+.past-conferences {
+  display: flex;
+  flex-flow: row nowrap;
+  justify-content: space-around;
+  width: 100%; }
+  .past-conferences a {
+    display: inline-block;
+    position: relative;
+    width: 35%;
+    margin: 7.5%;
+    border-radius: 15px;
+    overflow: hidden; }
+    .past-conferences a span {
+      position: absolute;
+      font-family: "Avenir Next", "Helvetica Neue", "Arial", sans-serif;
+      color: white;
+      font-size: 2.5vw;
+      top: 50%;
+      left: 50%;
+      transform: translateX(-50%) translateY(-50%);
+      white-space: nowrap;
+      font-weight: 600; }
+    .past-conferences a img {
+      display: block;
+      width: 100%;
+      filter: brightness(0.6); }
+
+@media (max-width: 640px) {
+  .past-conferences {
+    flex-direction: column; }
+    .past-conferences a {
+      width: 85%; }
+      .past-conferences a span {
+        font-size: 5vw; } }
+
 .mobile-only {
   display: none !important; }
 
