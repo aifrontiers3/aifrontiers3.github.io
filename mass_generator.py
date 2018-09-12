@@ -140,27 +140,27 @@ for city in cities:
     pass
 
 # NOW LETS DO SOME MASS CREATION BABY!
-# counter = 0
-# for city in cities:
-#   city_name = city[0]
-#   state_name = city[1]
-#   state_abbr = city[2]
+counter = 0
+for city in cities:
+  city_name = city[0]
+  state_name = city[1]
+  state_abbr = city[2]
 
-#   for keyword in conferenceKeywords:
-#     directory = os.path.join(urlize(state_name), urlize(city_name), urlize(keyword))
-#     print(directory)
-#     if not os.path.exists(directory):
-#       os.makedirs(directory)
-#       with open(os.path.join(directory, 'index.md'), 'w') as outfile:
-#         content = ("---\n"
-#                   "title: AI Frontiers Conference\n"
-#                   "layout: index\n"
-#                   "cityKeyword: '%s'\n"
-#                   "stateKeyword: '%s'\n"
-#                   "stateAbbrKeyword: '%s'\n"
-#                   "conferenceKeyword: '%s'\n"
-#                   "---") % (city_name, state_name, state_abbr, keyword)
-#         outfile.write(content)
-#       counter += 1
+  for keyword in conferenceKeywords:
+    directory = os.path.join(urlize(state_name), urlize(city_name), urlize(keyword))
+    print(directory)
+    if not os.path.exists(directory):
+      os.makedirs(directory)
+      with open(os.path.join(directory, 'index.md'), 'w') as outfile:
+        content = ("---\n"
+                  "title: AI Frontiers Conference\n"
+                  "layout: index\n"
+                  "cityKeyword: '%s'\n"
+                  "stateKeyword: '%s'\n"
+                  "stateAbbrKeyword: '%s'\n"
+                  "conferenceKeyword: '%s'\n"
+                  "---") % (city_name, state_name, state_abbr, keyword)
+        outfile.write(content)
+      counter += 1
 
-# print("phew! %d files generated." % counter)
+print("phew! %d files generated." % counter)
