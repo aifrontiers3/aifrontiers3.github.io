@@ -51,13 +51,6 @@
   </url>
   
   <url>
-    <loc>https://aifrontiers.com/california/stanford/deep-learning-conference/index.html</loc>
-    
-    <lastmod>2018-09-12T02:50:42.756Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://aifrontiers.com/california/stanford/ai-conference/index.html</loc>
     
     <lastmod>2018-09-12T02:50:42.756Z</lastmod>
@@ -65,7 +58,7 @@
   </url>
   
   <url>
-    <loc>https://aifrontiers.com/california/mountain-view/deep-learning-conference/index.html</loc>
+    <loc>https://aifrontiers.com/california/stanford/deep-learning-conference/index.html</loc>
     
     <lastmod>2018-09-12T02:50:42.756Z</lastmod>
     
@@ -73,6 +66,13 @@
   
   <url>
     <loc>https://aifrontiers.com/california/mountain-view/ai-conference/index.html</loc>
+    
+    <lastmod>2018-09-12T02:50:42.756Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://aifrontiers.com/california/mountain-view/deep-learning-conference/index.html</loc>
     
     <lastmod>2018-09-12T02:50:42.756Z</lastmod>
     
@@ -121,14 +121,14 @@
   </url>
   
   <url>
-    <loc>https://aifrontiers.com/california/menlo-park/deep-learning-conference/index.html</loc>
+    <loc>https://aifrontiers.com/california/menlo-park/ai-conference/index.html</loc>
     
     <lastmod>2018-09-12T02:50:42.756Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://aifrontiers.com/california/menlo-park/ai-conference/index.html</loc>
+    <loc>https://aifrontiers.com/california/menlo-park/deep-learning-conference/index.html</loc>
     
     <lastmod>2018-09-12T02:50:42.756Z</lastmod>
     
@@ -198,7 +198,7 @@
   </url>
   
   <url>
-    <loc>https://aifrontiers.com/california/hayward/ai-conference/index.html</loc>
+    <loc>https://aifrontiers.com/california/hayward/deep-learning-conference/index.html</loc>
     
     <lastmod>2018-09-12T02:50:42.752Z</lastmod>
     
@@ -233,14 +233,14 @@
   </url>
   
   <url>
-    <loc>https://aifrontiers.com/california/berkeley/nlp-conference/index.html</loc>
+    <loc>https://aifrontiers.com/california/berkeley/machine-learning-conference/index.html</loc>
     
     <lastmod>2018-09-12T02:50:42.752Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://aifrontiers.com/california/berkeley/machine-learning-conference/index.html</loc>
+    <loc>https://aifrontiers.com/california/berkeley/nlp-conference/index.html</loc>
     
     <lastmod>2018-09-12T02:50:42.752Z</lastmod>
     
@@ -254,7 +254,7 @@
   </url>
   
   <url>
-    <loc>https://aifrontiers.com/california/hayward/deep-learning-conference/index.html</loc>
+    <loc>https://aifrontiers.com/california/hayward/ai-conference/index.html</loc>
     
     <lastmod>2018-09-12T02:50:42.752Z</lastmod>
     
@@ -478,7 +478,7 @@
   </url>
   
   <url>
-    <loc>https://aifrontiers.com/illinois/chicago/ai-conference/index.html</loc>
+    <loc>https://aifrontiers.com/illinois/chicago/deep-learning-conference/index.html</loc>
     
     <lastmod>2018-09-12T02:50:42.744Z</lastmod>
     
@@ -632,7 +632,7 @@
   </url>
   
   <url>
-    <loc>https://aifrontiers.com/illinois/chicago/deep-learning-conference/index.html</loc>
+    <loc>https://aifrontiers.com/illinois/chicago/ai-conference/index.html</loc>
     
     <lastmod>2018-09-12T02:50:42.744Z</lastmod>
     
