@@ -38,6 +38,7 @@ cities = [
 # please end with conference so that the sentences make sense.
 conferenceKeywords = [
   "AI conference",
+  "Artificial Intelligence conference",
   "machine learning conference",
   "deep learning conference",
   "NLP conference"
