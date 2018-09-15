@@ -1692,6 +1692,7 @@ a.close-modal {
     position: fixed;
     z-index: 100;
     width: 100vw;
+    cursor: default;
     height: 100vh;
     box-sizing: border-box;
     padding: 0 45px;
@@ -1700,6 +1701,8 @@ a.close-modal {
     background: #015EC3;
     left: 0;
     top: 0; }
+    .module-speakers .speaker .details a {
+      text-decoration: underline; }
     .module-speakers .speaker .details .close-button {
       position: fixed;
       font-size: 100px;
