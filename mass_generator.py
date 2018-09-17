@@ -3,7 +3,6 @@ import shutil, os
 # This is a list of cities, follow this format: [cityName, stateName, stateAbbr]
 cities = [
   ["San Diego", "California", "CA"],
-  ["Los Angleles", "California", "CA"],
   ["New York City", "New York", "NY"],
   ["Boston", "Massachusetts", "MA"],
   ["Washingto DC", "District of Columbia", "DC"],
@@ -32,6 +31,12 @@ cities = [
   ["Mountain View", "California", "CA"],
   ["Stanford", "California", "CA"],
   ["Los Angeles", "California", "CA"],
+#  ["Detroit", "Michigan", "MI"],
+#  ["Atlanta", "Georgia", "GA"],
+#  ["Raleigh", "North Carolina", "NC"],
+#  ["Dallas", "Texas", "TX"],
+#  ["Tacoma", "Washington", "WA"],
+#  ["Seattle", "Washington", "WA"]
 ]
 
 # These keywords will be put into sentences, so
