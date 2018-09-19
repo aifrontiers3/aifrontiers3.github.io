@@ -1675,7 +1675,11 @@ a.close-modal {
     border: rgba(255, 255, 255, 0.5) 3px solid;
     opacity: .85; }
   .module-speakers .speaker .name {
-    font-weight: 600; }
+    color: white;
+    margin-bottom: 0;
+    margin-top: 0;
+    font-weight: 600;
+    font-size: inherit; }
   .module-speakers .speaker span {
     font-size: 15px;
     line-height: 18.5px;
