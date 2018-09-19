@@ -555,7 +555,7 @@
   </url>
   
   <url>
-    <loc>https://aifrontiers.com/pennsylvania/philadelphia/deep-learning-conference/index.html</loc>
+    <loc>https://aifrontiers.com/pennsylvania/philadelphia/nlp-conference/index.html</loc>
     
     <lastmod>2018-09-15T07:27:39.611Z</lastmod>
     
@@ -569,7 +569,7 @@
   </url>
   
   <url>
-    <loc>https://aifrontiers.com/pennsylvania/philadelphia/nlp-conference/index.html</loc>
+    <loc>https://aifrontiers.com/pennsylvania/philadelphia/deep-learning-conference/index.html</loc>
     
     <lastmod>2018-09-15T07:27:39.611Z</lastmod>
     
@@ -579,6 +579,13 @@
     <loc>https://aifrontiers.com/british-columbia/vancouver/ai-conference/index.html</loc>
     
     <lastmod>2018-09-15T07:27:39.611Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://aifrontiers.com/pennsylvania/pittsburgh/nlp-conference/index.html</loc>
+    
+    <lastmod>2018-09-15T07:27:39.607Z</lastmod>
     
   </url>
   
@@ -611,21 +618,7 @@
   </url>
   
   <url>
-    <loc>https://aifrontiers.com/pennsylvania/pittsburgh/nlp-conference/index.html</loc>
-    
-    <lastmod>2018-09-15T07:27:39.607Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://aifrontiers.com/pennsylvania/pittsburgh/artificial-intelligence-conference/index.html</loc>
-    
-    <lastmod>2018-09-15T07:27:39.603Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://aifrontiers.com/pennsylvania/pittsburgh/ai-conference/index.html</loc>
     
     <lastmod>2018-09-15T07:27:39.603Z</lastmod>
     
@@ -639,7 +632,7 @@
   </url>
   
   <url>
-    <loc>https://aifrontiers.com/rhode-island/providence/nlp-conference/index.html</loc>
+    <loc>https://aifrontiers.com/rhode-island/providence/deep-learning-conference/index.html</loc>
     
     <lastmod>2018-09-15T07:27:39.603Z</lastmod>
     
@@ -653,16 +646,16 @@
   </url>
   
   <url>
-    <loc>https://aifrontiers.com/rhode-island/providence/deep-learning-conference/index.html</loc>
+    <loc>https://aifrontiers.com/rhode-island/providence/nlp-conference/index.html</loc>
     
     <lastmod>2018-09-15T07:27:39.603Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://aifrontiers.com/michigan/ann-arbor/artificial-intelligence-conference/index.html</loc>
+    <loc>https://aifrontiers.com/pennsylvania/pittsburgh/ai-conference/index.html</loc>
     
-    <lastmod>2018-09-15T07:27:39.599Z</lastmod>
+    <lastmod>2018-09-15T07:27:39.603Z</lastmod>
     
   </url>
   
@@ -689,6 +682,13 @@
   
   <url>
     <loc>https://aifrontiers.com/michigan/ann-arbor/deep-learning-conference/index.html</loc>
+    
+    <lastmod>2018-09-15T07:27:39.599Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://aifrontiers.com/michigan/ann-arbor/artificial-intelligence-conference/index.html</loc>
     
     <lastmod>2018-09-15T07:27:39.599Z</lastmod>
     
@@ -744,13 +744,6 @@
   </url>
   
   <url>
-    <loc>https://aifrontiers.com/illinois/chicago/machine-learning-conference/index.html</loc>
-    
-    <lastmod>2018-09-15T07:27:39.591Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://aifrontiers.com/illinois/chicago/deep-learning-conference/index.html</loc>
     
     <lastmod>2018-09-15T07:27:39.591Z</lastmod>
@@ -765,13 +758,6 @@
   </url>
   
   <url>
-    <loc>https://aifrontiers.com/texas/san-antonio/nlp-conference/index.html</loc>
-    
-    <lastmod>2018-09-15T07:27:39.591Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://aifrontiers.com/illinois/chicago/ai-conference/index.html</loc>
     
     <lastmod>2018-09-15T07:27:39.591Z</lastmod>
@@ -779,16 +765,16 @@
   </url>
   
   <url>
-    <loc>https://aifrontiers.com/texas/austin/artificial-intelligence-conference/index.html</loc>
+    <loc>https://aifrontiers.com/illinois/chicago/machine-learning-conference/index.html</loc>
     
-    <lastmod>2018-09-15T07:27:39.587Z</lastmod>
+    <lastmod>2018-09-15T07:27:39.591Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://aifrontiers.com/texas/austin/deep-learning-conference/index.html</loc>
+    <loc>https://aifrontiers.com/texas/san-antonio/nlp-conference/index.html</loc>
     
-    <lastmod>2018-09-15T07:27:39.587Z</lastmod>
+    <lastmod>2018-09-15T07:27:39.591Z</lastmod>
     
   </url>
   
@@ -835,6 +821,20 @@
   </url>
   
   <url>
+    <loc>https://aifrontiers.com/texas/austin/deep-learning-conference/index.html</loc>
+    
+    <lastmod>2018-09-15T07:27:39.587Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://aifrontiers.com/texas/austin/artificial-intelligence-conference/index.html</loc>
+    
+    <lastmod>2018-09-15T07:27:39.587Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://aifrontiers.com/massachusetts/boston/nlp-conference/index.html</loc>
     
     <lastmod>2018-09-15T07:27:39.583Z</lastmod>
@@ -856,6 +856,13 @@
   </url>
   
   <url>
+    <loc>https://aifrontiers.com/california/san-diego/machine-learning-conference/index.html</loc>
+    
+    <lastmod>2018-09-15T07:27:39.583Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://aifrontiers.com/texas/austin/ai-conference/index.html</loc>
     
     <lastmod>2018-09-15T07:27:39.583Z</lastmod>
@@ -864,13 +871,6 @@
   
   <url>
     <loc>https://aifrontiers.com/texas/houston/nlp-conference/index.html</loc>
-    
-    <lastmod>2018-09-15T07:27:39.583Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://aifrontiers.com/texas/houston/machine-learning-conference/index.html</loc>
     
     <lastmod>2018-09-15T07:27:39.583Z</lastmod>
     
@@ -954,6 +954,13 @@
   </url>
   
   <url>
+    <loc>https://aifrontiers.com/texas/houston/machine-learning-conference/index.html</loc>
+    
+    <lastmod>2018-09-15T07:27:39.583Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://aifrontiers.com/texas/houston/deep-learning-conference/index.html</loc>
     
     <lastmod>2018-09-15T07:27:39.583Z</lastmod>
@@ -969,13 +976,6 @@
   
   <url>
     <loc>https://aifrontiers.com/texas/houston/ai-conference/index.html</loc>
-    
-    <lastmod>2018-09-15T07:27:39.583Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://aifrontiers.com/california/san-diego/machine-learning-conference/index.html</loc>
     
     <lastmod>2018-09-15T07:27:39.583Z</lastmod>
     

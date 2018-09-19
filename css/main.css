@@ -1600,7 +1600,9 @@ a.close-modal {
         text-transform: uppercase;
         font-weight: 600;
         text-align: center;
-        letter-spacing: 1.2px; }
+        letter-spacing: 1.2px;
+        margin-top: 0;
+        margin-bottom: 0; }
     .module-topics .topic-card .topic-description {
       display: block;
       width: 100%;
@@ -2049,7 +2051,9 @@ a.close-modal {
       display: block;
       font-weight: 600;
       color: #0070E8;
-      margin-top: 12px; }
+      margin-top: 12px;
+      margin-bottom: 0;
+      font-size: inherit; }
       .module-schedule .speech .speech-title .speaker-name {
         color: #083365; }
     .module-schedule .speech .speech-description {
