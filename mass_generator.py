@@ -36,7 +36,7 @@ cities = [
 #  ["Raleigh", "North Carolina", "NC"],
 #  ["Dallas", "Texas", "TX"],
 #  ["Tacoma", "Washington", "WA"],
-#  ["Seattle", "Washington", "WA"]
+  ["Seattle", "Washington", "WA"]
 ]
 
 # These keywords will be put into sentences, so
