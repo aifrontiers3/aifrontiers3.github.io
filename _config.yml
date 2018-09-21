@@ -12,7 +12,7 @@ timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://aifrontiers.com
+url: https://aifrontiers.com
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -76,3 +76,4 @@ deploy:
   type: git
   repo: git@github.com:aifrontiers3/aifrontiers3.github.io.git
   branch: master
+
