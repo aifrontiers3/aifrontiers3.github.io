@@ -5,7 +5,7 @@ cities = [
   ["San Diego", "California", "CA"],
   ["New York City", "New York", "NY"],
   ["Boston", "Massachusetts", "MA"],
-  ["Washingto DC", "District of Columbia", "DC"],
+  ["Washington DC", "District of Columbia", "DC"],
   ["Houston", "Texas", "TX"],
   ["Austin", "Texas", "TX"],
   ["San Antonio", "Texas", "TX"],
@@ -36,7 +36,7 @@ cities = [
 #  ["Raleigh", "North Carolina", "NC"],
 #  ["Dallas", "Texas", "TX"],
 #  ["Tacoma", "Washington", "WA"],
-  ["Seattle", "Washington", "WA"]
+#  ["Seattle", "Washington", "WA"]
 ]
 
 # These keywords will be put into sentences, so
