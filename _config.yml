@@ -77,3 +77,7 @@ deploy:
   repo: git@github.com:aifrontiers3/aifrontiers3.github.io.git
   branch: master
 
+# Sass
+node_sass:
+  outputStyle: compressed
+  sourceComments: false
