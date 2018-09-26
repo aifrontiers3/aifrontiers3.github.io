@@ -107,16 +107,17 @@ var trackOutboundLink = (url) => {
           });
        }
     }
-    $("#fgPlayer").on($.modal.BEFORE_OPEN, function(event, modal) {
-       fgPlayer = new Vimeo.Player('fgPlayer', fgPlayerOptions);
-       if (bgPlayer) bgPlayer.pause();
-    });
-    $("#fgPlayer").on($.modal.OPEN, function(event, modal) {
-       if (!window.mobilecheck()) {if (fgPlayer) fgPlayer.play()};
-    });
-    $("#fgPlayer").on($.modal.BEFORE_CLOSE, function(event, modal) {
-       if (bgPlayer) bgPlayer.play();
-    });
+    // Watch video related scripts
+    // $("#fgPlayer").on($.modal.BEFORE_OPEN, function(event, modal) {
+    //    fgPlayer = new Vimeo.Player('fgPlayer', fgPlayerOptions);
+    //    if (bgPlayer) bgPlayer.pause();
+    // });
+    // $("#fgPlayer").on($.modal.OPEN, function(event, modal) {
+    //    if (!window.mobilecheck()) {if (fgPlayer) fgPlayer.play()};
+    // });
+    // $("#fgPlayer").on($.modal.BEFORE_CLOSE, function(event, modal) {
+    //    if (bgPlayer) bgPlayer.play();
+    // });
 }
 </script><script type="text/javascript">(function(){
     var s = document.getElementsByTagName("script")[0];
