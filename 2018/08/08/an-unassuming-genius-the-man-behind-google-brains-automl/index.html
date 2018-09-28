@@ -106,13 +106,16 @@ var trackOutboundLink = (url) => {
     s.parentNode.insertBefore(b, s);
 })();
 </script><!-- script(type="text/javascript").--><!--     if (window.mobilecheck()) {--><!--         $(".day-buttons").hide();--><!--         $(".schedule > .day").css("display", "block");--><!--     } else {--><!--         $($(".schedule .day-button")[0]).addClass("day-button--active");--><!--         $(".schedule .day-button").click(function(){--><!--             var idx = $(".schedule .day-button").index(this) % 3;--><!--             $(".schedule div.day").css("display", "none");--><!--             $(".schedule .day-button").removeClass("day-button--active");--><!--             $($(".schedule .day-button")[idx]).addClass("day-button--active");--><!--             $($(".schedule > .day")[idx]).css("display", "block");--><!--             if ($(this).hasClass("back-to-top")) {--><!--                 window.location.hash = "#schedule";--><!--                 window.location.href = "#schedule";--><!--             }--><!--         });--><!--     }--><script type="text/javascript">$(".module-speakers .speakers .speaker, .module-speakers .moderators .speaker").click(function(e) {
-    $(this).toggleClass("speaker--active")
+    $(this).toggleClass("speaker--active");
+});
+$(".module-schedule .schedule .speaker").click(function(e) {
+    var name = $(this).children(".name").text();
+    var urlizedName = name.toLowerCase().split(' ').join('-');
+    $("#" + urlizedName).click();
 });
 $(document).keyup(function(e) {
-    $details = $(".module-speakers .speakers .speaker .details, .module-speakers .moderators .speaker .details");
     if (e.which == 27) {
-        $details.css("display", "none");
-        $details.parent().css("cursor", "pointer");
+        $(".speaker--active").toggleClass("speaker--active");
     }
 });
 </script><noscript><img height="1" width="1" style="display:none;" alt="" src="https://dc.ads.linkedin.com/collect/?pid=91636&amp;fmt=gif"></noscript><script type="text/javascript">window.getDict = function() {
