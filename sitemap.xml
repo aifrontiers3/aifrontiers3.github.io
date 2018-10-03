@@ -149,14 +149,7 @@
   </url>
   
   <url>
-    <loc>https://aifrontiers.com/california/los-angeles/artificial-intelligence-conference/index.html</loc>
-    
-    <lastmod>2018-09-15T07:27:39.663Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://aifrontiers.com/california/los-angeles/deep-learning-conference/index.html</loc>
+    <loc>https://aifrontiers.com/california/los-angeles/nlp-conference/index.html</loc>
     
     <lastmod>2018-09-15T07:27:39.663Z</lastmod>
     
@@ -170,7 +163,14 @@
   </url>
   
   <url>
-    <loc>https://aifrontiers.com/california/los-angeles/nlp-conference/index.html</loc>
+    <loc>https://aifrontiers.com/california/los-angeles/deep-learning-conference/index.html</loc>
+    
+    <lastmod>2018-09-15T07:27:39.663Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://aifrontiers.com/california/los-angeles/artificial-intelligence-conference/index.html</loc>
     
     <lastmod>2018-09-15T07:27:39.663Z</lastmod>
     
@@ -178,6 +178,27 @@
   
   <url>
     <loc>https://aifrontiers.com/california/mountain-view/deep-learning-conference/index.html</loc>
+    
+    <lastmod>2018-09-15T07:27:39.659Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://aifrontiers.com/california/mountain-view/nlp-conference/index.html</loc>
+    
+    <lastmod>2018-09-15T07:27:39.659Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://aifrontiers.com/california/stanford/machine-learning-conference/index.html</loc>
+    
+    <lastmod>2018-09-15T07:27:39.659Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://aifrontiers.com/california/stanford/deep-learning-conference/index.html</loc>
     
     <lastmod>2018-09-15T07:27:39.659Z</lastmod>
     
@@ -198,28 +219,7 @@
   </url>
   
   <url>
-    <loc>https://aifrontiers.com/california/stanford/deep-learning-conference/index.html</loc>
-    
-    <lastmod>2018-09-15T07:27:39.659Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://aifrontiers.com/california/stanford/machine-learning-conference/index.html</loc>
-    
-    <lastmod>2018-09-15T07:27:39.659Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://aifrontiers.com/california/stanford/nlp-conference/index.html</loc>
-    
-    <lastmod>2018-09-15T07:27:39.659Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://aifrontiers.com/california/mountain-view/nlp-conference/index.html</loc>
     
     <lastmod>2018-09-15T07:27:39.659Z</lastmod>
     
@@ -457,14 +457,14 @@
   </url>
   
   <url>
-    <loc>https://aifrontiers.com/california/hayward/machine-learning-conference/index.html</loc>
+    <loc>https://aifrontiers.com/california/hayward/nlp-conference/index.html</loc>
     
     <lastmod>2018-09-15T07:27:39.639Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://aifrontiers.com/california/hayward/nlp-conference/index.html</loc>
+    <loc>https://aifrontiers.com/california/hayward/machine-learning-conference/index.html</loc>
     
     <lastmod>2018-09-15T07:27:39.639Z</lastmod>
     
@@ -653,20 +653,6 @@
   </url>
   
   <url>
-    <loc>https://aifrontiers.com/british-columbia/vancouver/artificial-intelligence-conference/index.html</loc>
-    
-    <lastmod>2018-09-15T07:27:39.615Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://aifrontiers.com/british-columbia/vancouver/deep-learning-conference/index.html</loc>
-    
-    <lastmod>2018-09-15T07:27:39.615Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://aifrontiers.com/british-columbia/vancouver/machine-learning-conference/index.html</loc>
     
     <lastmod>2018-09-15T07:27:39.615Z</lastmod>
@@ -675,6 +661,13 @@
   
   <url>
     <loc>https://aifrontiers.com/british-columbia/vancouver/nlp-conference/index.html</loc>
+    
+    <lastmod>2018-09-15T07:27:39.615Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://aifrontiers.com/british-columbia/vancouver/artificial-intelligence-conference/index.html</loc>
     
     <lastmod>2018-09-15T07:27:39.615Z</lastmod>
     
@@ -695,6 +688,20 @@
   </url>
   
   <url>
+    <loc>https://aifrontiers.com/british-columbia/vancouver/deep-learning-conference/index.html</loc>
+    
+    <lastmod>2018-09-15T07:27:39.615Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://aifrontiers.com/pennsylvania/philadelphia/deep-learning-conference/index.html</loc>
+    
+    <lastmod>2018-09-15T07:27:39.611Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://aifrontiers.com/pennsylvania/philadelphia/nlp-conference/index.html</loc>
     
     <lastmod>2018-09-15T07:27:39.611Z</lastmod>
@@ -709,13 +716,6 @@
   </url>
   
   <url>
-    <loc>https://aifrontiers.com/pennsylvania/philadelphia/deep-learning-conference/index.html</loc>
-    
-    <lastmod>2018-09-15T07:27:39.611Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://aifrontiers.com/british-columbia/vancouver/ai-conference/index.html</loc>
     
     <lastmod>2018-09-15T07:27:39.611Z</lastmod>
@@ -723,21 +723,7 @@
   </url>
   
   <url>
-    <loc>https://aifrontiers.com/pennsylvania/philadelphia/ai-conference/index.html</loc>
-    
-    <lastmod>2018-09-15T07:27:39.607Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://aifrontiers.com/pennsylvania/pittsburgh/nlp-conference/index.html</loc>
-    
-    <lastmod>2018-09-15T07:27:39.607Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://aifrontiers.com/pennsylvania/pittsburgh/machine-learning-conference/index.html</loc>
     
     <lastmod>2018-09-15T07:27:39.607Z</lastmod>
     
@@ -751,6 +737,20 @@
   </url>
   
   <url>
+    <loc>https://aifrontiers.com/pennsylvania/pittsburgh/machine-learning-conference/index.html</loc>
+    
+    <lastmod>2018-09-15T07:27:39.607Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://aifrontiers.com/pennsylvania/philadelphia/ai-conference/index.html</loc>
+    
+    <lastmod>2018-09-15T07:27:39.607Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://aifrontiers.com/pennsylvania/philadelphia/artificial-intelligence-conference/index.html</loc>
     
     <lastmod>2018-09-15T07:27:39.607Z</lastmod>
@@ -758,7 +758,7 @@
   </url>
   
   <url>
-    <loc>https://aifrontiers.com/rhode-island/providence/deep-learning-conference/index.html</loc>
+    <loc>https://aifrontiers.com/pennsylvania/pittsburgh/artificial-intelligence-conference/index.html</loc>
     
     <lastmod>2018-09-15T07:27:39.603Z</lastmod>
     
@@ -772,20 +772,6 @@
   </url>
   
   <url>
-    <loc>https://aifrontiers.com/pennsylvania/pittsburgh/artificial-intelligence-conference/index.html</loc>
-    
-    <lastmod>2018-09-15T07:27:39.603Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://aifrontiers.com/rhode-island/providence/machine-learning-conference/index.html</loc>
-    
-    <lastmod>2018-09-15T07:27:39.603Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://aifrontiers.com/rhode-island/providence/nlp-conference/index.html</loc>
     
     <lastmod>2018-09-15T07:27:39.603Z</lastmod>
@@ -793,7 +779,21 @@
   </url>
   
   <url>
+    <loc>https://aifrontiers.com/rhode-island/providence/deep-learning-conference/index.html</loc>
+    
+    <lastmod>2018-09-15T07:27:39.603Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://aifrontiers.com/rhode-island/providence/artificial-intelligence-conference/index.html</loc>
+    
+    <lastmod>2018-09-15T07:27:39.603Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://aifrontiers.com/rhode-island/providence/machine-learning-conference/index.html</loc>
     
     <lastmod>2018-09-15T07:27:39.603Z</lastmod>
     
