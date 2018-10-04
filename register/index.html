@@ -2,11 +2,10 @@
 function gtag(){dataLayer.push(arguments)};
 gtag('js', new Date());
 gtag('config', "UA-125089723-1");</script><script>document.addEventListener("DOMContentLoaded", () => {
-    var url = new URL(window.location.href);
-    var from = url.searchParams.get("from") || false;
-    if (from) {
-        window.location.replace("https://aifrontiers2018.eventbrite.com?aff=" + from);
+    var split = window.location.href.split("?");
+    if (split.length == 1) {
+        window.location.href = "https://aifrontiers2018.eventbrite.com";
     } else {
-        window.location.replace("https://aifrontiers2018.eventbrite.com");
+        window.location.href = "https://aifrontiers2018.eventbrite.com" + "?" + split[1];
     }
 });</script></body></html>
