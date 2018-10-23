@@ -1,0 +1,40 @@
+# disallow URLs for google bot 
+User-agent: Googlebot
+Disallow: /test
+Disallow: /develop
+
+# bing bot 
+User-agent: Bingbot
+Disallow: /test
+Disallow: /develop
+
+# msnbot
+User-agent: msnbot
+Disallow: /test
+Disallow: /develop
+
+
+# yahoo if still matters
+User-agent: Slurp
+Disallow: /test
+Disallow: /develop
+
+# ddg 
+User-agent: DuckDuckBot 
+Disallow: /test
+Disallow: /develop
+
+
+# Baidu 
+User-agent: Baiduspider
+Disallow: /test
+Disallow: /develop
+
+# Amazon Alexa 
+User-agent: ia_archiver
+Disallow: /test
+Disallow: /develop
+
+# allow normal browser to access anything, explicitly put here, although it can be skipped
+User-agent: *
+Allow: /
